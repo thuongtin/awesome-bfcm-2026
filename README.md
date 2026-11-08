@@ -2,13 +2,13 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Updated daily](https://img.shields.io/badge/updated-daily-brightgreen)](https://github.com/thuongtin/awesome-bfcm-2026)
-[![Deals](https://img.shields.io/badge/deals-230-blue)](https://github.com/thuongtin/awesome-bfcm-2026)
+[![Deals](https://img.shields.io/badge/deals-231-blue)](https://github.com/thuongtin/awesome-bfcm-2026)
 [![Last updated](https://img.shields.io/badge/last%20updated-2026--11--06-orange)](https://github.com/thuongtin/awesome-bfcm-2026/commits/main)
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](LICENSE)
 
 > A curated, categorized list of **Black Friday 2026** and **Cyber Monday 2026** (BFCM 2026) deals: AI & developer tools, software & SaaS, hosting & cloud, electronics, hardware & gadgets, courses, games, and more.
 
-**230 deals** currently listed · Last updated: **2026-11-06** (Asia/Saigon, UTC+7)
+**231 deals** currently listed · Last updated: **2026-11-06** (Asia/Saigon, UTC+7)
 
 Community-sourced from **Reddit, GitHub, Facebook, and X** → Notion → published here as tables for fast scanning.
 
@@ -17,14 +17,14 @@ Community-sourced from **Reddit, GitHub, Facebook, and X** → Notion → publis
 | Category | Deals |
 | --- | ---: |
 | [AI & Dev Tools](#ai--dev-tools) | 45 |
-| [Software & SaaS](#software--saas) | 149 |
+| [Software & SaaS](#software--saas) | 150 |
 | [Hosting & Cloud](#hosting--cloud) | 9 |
 | [Electronics](#electronics) | 6 |
 | [Hardware/Gadgets](#hardwaregadgets) | 8 |
 | [Courses & Learning](#courses--learning) | 7 |
 | [Games](#games) | 2 |
 | [Other](#other) | 4 |
-| **Total** | **230** |
+| **Total** | **231** |
 
 ## Contents
 
@@ -180,6 +180,7 @@ Community-sourced from **Reddit, GitHub, Facebook, and X** → Notion → publis
 | [NewsNinja, 50% off one-time purchase, Black Friday 2026](https://apps.apple.com/us/app/ai-rss-reader-newsninja/id6504148117?platform=vision) | 50% off the one-time purchase | — | 2026-12-05 | [Reddit](https://www.reddit.com/r/MacOS/comments/1xngo0c/indie_mac_apps_that_have_already_confirmed_black/) | Feed aggregator for RSS, Reddit, YouTube, podcasts and social feeds on Mac, iOS, iPadOS and visionOS, no account required. From the r/MacOS confirmed-deals thread; thread lists no… |
 | [NordPass, Black Friday sale, ends Dec 9 2026](https://nordpass.com/black-friday/) | Black Friday sale | — | 2026-12-09 | [GitHub](https://github.com/thoughtcook/verified-black-friday) | Official Black Friday page live, Oct 21 to Dec 9, 2026. Plan prices were JS-opaque in the source check, so no current price is recorded here; prior pricing was Premium 2-yr about… |
 | [NordVPN, up to 78% off plus 3 months, Black Friday 2026](https://nordvpn.com/black-friday/) | Up to 78% off, plus 3 months | From $3.49/mo | 2026-12-09 | [GitHub](https://github.com/thoughtcook/verified-black-friday) | Verified by thoughtcook on 2026-11-04 from the official Black Friday page and FAQ. Sale Oct 21 to Dec 9, 2026. |
+| [Nuelink, 50% off yearly plans, Black Friday 2026](https://offer.nuelink.com/mcp/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2026&utm_content=thuongtin_awesome_bfcm_2026) | 50% off yearly plans (6 months free), or 25% off the first 3 monthly payments | Standard $144 for the first year (vs 12 × $24 monthly); monthly $24 to $18 for the first 3 months | 2026-11-30 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Code BFCM26, added when you start the 7-day free trial through the offer page. Agentic social media scheduling and automation for 12 platforms: tell Claude or ChatGPT what to post and Nuelink publishes it. Nov 6 - Nov 30. |
 | [Omnisend, 30% off, Black Friday 2026](https://www.omnisend.com/bfcm/) | 30% off | — | — | [GitHub](https://github.com/thoughtcook/verified-black-friday) | 30% off first 3 months. Code BLACK-FRIDAY-2026. Free migration up to 5 days. End date not stated on official page. |
 | [Our Family Album, 50% off, Black Friday 2026](https://ourfamilyalbum.com/) | 50% off | $24.99, $49.99 | 2026-12-01 | [GitHub](https://github.com/dqhieu/black-friday-deals) | The private family album app for iPhone and iPad. $49.99 to $24.99 USD, no code needed, Nov 27 to Dec 1, 2026. |
 | [Outpublished, 40% off, Black Friday 2026](https://outpublished.com/black-friday) | 40% off for as long as you stay subscribed, first 150 accounts, auto-applied | — | 2026-12-04 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Content and SEO gap tool: shows content and SEO teams every page their competitors have that they do not. From the twf-nikhila list, updated 2026-11-05. |
