@@ -442,6 +442,7 @@ Community-sourced from **Reddit, GitHub, Facebook, and X** → Notion → publis
 | [Xero, 90% off for 4 months, Black Friday 2026](https://www.xero.com/) | 90% off for 4 months | — | — | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | Cloud accounting and invoicing. Listed in the Shashankt255 black-friday-deals-2026 list as a confirmed deal. |
 | [XFlow, 35% off for 3 months, Black Friday 2026](https://foxecom.com/pages/bfcm-2026) | 35% off for 3 months | — | — | [X](https://x.com/XFlowShopifyApp/status/2105973116967281020) | — |
 | [YNAB, 50% off annual, Black Friday 2026](https://www.ynab.com/) | 50% off annual | — | — | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | Budgeting app. Listed in the Shashankt255 black-friday-deals-2026 list as a confirmed deal. |
+| [LS Graphics, 50% off all bundles and plans, Black Friday 2026](https://www.ls.graphics/) | 50% OFF all bundles and subscription plans | All mockup bundles, monthly plans, and annual plans | 2026-12-01 | [Official website](https://www.ls.graphics/) | Browser-based editor for static and animated mockups, plus 100+ branding and device mockup bundles with downloadable PSD, Figma, and Sketch files. Sale Nov 6 to Dec 1, 2026, inclusive. |
 
 [↑ Back to top](#awesome-black-friday--cyber-monday-2026-deals)
 
