@@ -16,7 +16,7 @@ Community-sourced from **Reddit, GitHub, Facebook, and X** → Notion → publis
 
 | Category | Deals |
 | --- | ---: |
-| [AI & Dev Tools](#ai--dev-tools) | 298 |
+| [AI & Dev Tools](#ai--dev-tools) | 299 |
 | [Software & SaaS](#software--saas) | 803 |
 | [Hosting & Cloud](#hosting--cloud) | 82 |
 | [Electronics](#electronics) | 197 |
@@ -24,7 +24,7 @@ Community-sourced from **Reddit, GitHub, Facebook, and X** → Notion → publis
 | [Courses & Learning](#courses--learning) | 89 |
 | [Games](#games) | 70 |
 | [Other](#other) | 29 |
-| **Total** | **1759** |
+| **Total** | **1760** |
 
 ## Contents
 
@@ -193,6 +193,7 @@ Community-sourced from **Reddit, GitHub, Facebook, and X** → Notion → publis
 | [MailScope, $19 one-time, Black Friday 2026](https://mailscope.app/blackfriday/) | $19 one-time (reg $29, save $10) | $19 one-time (reg $29) | 2026-11-30 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday#readme) | Code bf2026 prefilled on the checkout link; up to 2 Macs, 12 months of updates; native email debugging for Mac; also listed in longseespace list |
 | [MailValid, 50% off with code BLACKFRIDAY50, Black Friday 2026](https://mailvalid.io/pricing) | 50% off monthly plans for first 3 months with code BLACKFRIDAY50; pay-as-you-go packs… | 10,000 credits $14.50/mo (was $29); PAYG 5,000 credits $9.50 (was $19) | 2026-12-01 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Email verification API for real-time and bulk checks: catch-all detection, disposable email blocking, REST API, Zapier and n8n, plus an MCP server. Sale until Dec 1, 2026. Listed… |
 | [MakeItSay, 30% off credit packs with code BF2026, Black Friday 2026](https://makeitsay.com/pricing) | 30% off credit packs with code BF2026 | $3 to $2.10; $10 to $7 | 2026-12-01 | [GitHub](https://github.com/dqhieu/black-friday-deals) | Web app, API and MCP server to edit or translate text inside photos while keeping the original font and background. Non-expiring credit packs. Sale Nov 13 to Dec 1, 2026. Listed… |
+| [MakeMidas, up to 25% more credits on credit packs, Black Friday 2026](https://makemidas.com/pricing) | Up to 25% more credits on credit packs | 125 credits per $1 (e.g. $10 for 1,250 credits instead of 1,000) | 2026-12-01 | [Official](https://makemidas.com/pricing) | Auto-applied, no code, no subscription; one-time packs, credits valid 12 months. AI image, video and music generator with GPT Image, Nano Banana, Veo, Kling and Suno. Nov 20 to Dec 1 (UTC) |
 | [Meku, 30% off yearly plans with code BLFCM2026, Black Friday 2026](https://meku.dev/pricing) | 30% off yearly plans with code BLFCM2026 | — | 2026-12-01 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | AI builder for websites and web apps. Listed in the twf-nikhila Awesome Black Friday list, offer window Nov 17 to Dec 1, 2026. |
 | [Meoz, 50% off with code BLACKFRIDAY2026, Black Friday 2026](https://meoz.ai/black-friday) | 50% off, code BLACKFRIDAY2026, applied automatically at checkout from the deal page | Annual $20 first year (was $40); Monthly $2.50 first month (was $5) | 2026-12-01 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | AI focus companion for macOS 14 or later: notices when attention drifts from a goal, with Session Lock, Commitment Lock and focus analytics in Pro. Sale Nov 27 to Dec 1, 2026.… |
 | [MilliCache Pro, 25% off first year, Black Friday 2026](https://www.millipress.com/millicache-pro/) | 25% off first year | — | 2026-12-01 | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026#readme) | Code BF26; full-page caching for WordPress |
