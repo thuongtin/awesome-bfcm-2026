@@ -8,7 +8,7 @@
 
 > A curated, categorized list of **Black Friday 2026** and **Cyber Monday 2026** (BFCM 2026) deals: AI & developer tools, software & SaaS, hosting & cloud, electronics, hardware & gadgets, courses, games, and more.
 
-**2085 deals** currently listed · Last updated: **2026-11-24** (Asia/Saigon, UTC+7)
+**2086 deals** currently listed · Last updated: **2026-11-24** (Asia/Saigon, UTC+7)
 
 Community-sourced from **Reddit, GitHub, Facebook, and X** → Notion → published here as tables for fast scanning.
 
@@ -17,19 +17,19 @@ Community-sourced from **Reddit, GitHub, Facebook, and X** → Notion → publis
 | Category | Deals |
 | --- | ---: |
 | [AI & Dev Tools](#ai--dev-tools) | 367 |
-| [Software & SaaS](#software--saas) | 944 |
+| [Software & SaaS](#software--saas) | 945 |
 | [Hosting & Cloud](#hosting--cloud) | 98 |
 | [Electronics](#electronics) | 219 |
 | [Hardware/Gadgets](#hardwaregadgets) | 213 |
 | [Courses & Learning](#courses--learning) | 123 |
 | [Games](#games) | 88 |
 | [Other](#other) | 33 |
-| **Total** | **2085** |
+| **Total** | **2086** |
 
 ## Contents
 
 - [AI & Dev Tools](#ai--dev-tools) (367)
-- [Software & SaaS](#software--saas) (944)
+- [Software & SaaS](#software--saas) (945)
 - [Hosting & Cloud](#hosting--cloud) (98)
 - [Electronics](#electronics) (219)
 - [Hardware/Gadgets](#hardwaregadgets) (213)
@@ -1120,6 +1120,7 @@ Community-sourced from **Reddit, GitHub, Facebook, and X** → Notion → publis
 | [ShadcnStore, 40% off every plan and template, Black Friday 2026](https://shadcnstore.com/pricing) | 40% off | $89 Pro | 2026-12-01 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | No code needed. Pro $149 to $89. Production-ready shadcn/ui blocks, pages, templates, Figma kit. |
 | [Shashank Thigale Framer Templates, 30% off with code BFCM30, Black Friday 2026](https://shashankthigale.com/templates/) | 30% off all templates with code BFCM30 | All-Access Pass $139 (was $199) | 2026-12-01 | [GitHub](https://github.com/Pimjo/black-friday-deals) | Niche Framer website templates for med spas, retreat centers and therapy practices, with booking flows and CMS content. Sale Nov 27 to Dec 1, 2026. Listed in the Pimjo… |
 | [ShellHistory, 60% off, Black Friday 2026](https://loshadki.app/shellhistory/) | 60% off | $5.59 one-time (was $13.99) | 2026-12-01 | [GitHub](https://github.com/longseespace/mac-black-friday) | Code BLACKFRIDAY26; Mac App Store $5.59, no code; shell history search and sync for Mac, iPhone and iPad |
+| [ShiftApp, 88% off the first 8 months, Black Friday 2026](https://shiftapp.com/black-friday) | 88% off the first 8 months on new Essential monthly orders | E10 US$2.88/mo for 8 months, then US$24/mo, before tax | 2026-12-12 | [Official offer](https://shiftapp.com/black-friday) | Employee scheduling and shift management on web, iOS and Android. Code BLACKFRIDAY2026 applies automatically. |
 | [ShiftPlus, 40% off, Black Friday 2026](https://shiftplus.app/black-friday/?ref=Awesome-Black-Friday-Cyber-Monday) | 40% off | $14.40, $23.40 | 2026-12-02 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Switch your whole Mac workspace with one hotkey: apps, browser profiles, windows, monitors, Spaces, links and terminal env vars. Native macOS app, one-time purchase, 14-day free… |
 | [Shiori, 50% off all Lifetime licenses, Black Friday 2026](https://shioriapp.io) | 50% off all Lifetime licenses, code BLACK2026FRIDAY50 | — | 2026-12-01 | [GitHub](https://github.com/dqhieu/black-friday-deals) | Fast bookmark manager with tags and folders, for Mac, web and Chrome. Mac coverage area. Nov 12 to Dec 1, 2026. |
 | [ShipReady 2026, 61% off one-time, $49 to $19, Black Friday 2026](https://sprintcraft-studio.netlify.app/shipready/) | 61% off | $49 to $19 one-time | 2026-12-01 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | No code needed; 5 single-file HTML/Tailwind SaaS landing page templates + CRO playbook |
