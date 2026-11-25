@@ -431,6 +431,7 @@ Community-sourced from **Reddit, GitHub, Facebook, and X** → Notion → publis
 | [ZeroRank, 28% off first 3 monthly payments, Black Friday 2026](https://zerorank.ai) | 28% off first 3 monthly payments | — | 2026-11-30 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | AI search visibility and GEO software for SEO teams and agencies: track brand mentions, citations and competitors across AI answer engines. Discounted first year on annual plans.… |
 | [ZipWP, 47% off, Black Friday 2026](https://zipwp.com/) | 47% off | $79/yr (was $149) | 2026-12-07 | [GitHub](https://github.com/themacmarketer/bfstack) | AI WordPress site builder. Source: bfstack, checked 15 Nov 2026. |
 | [ZxClip, 70% off Lifetime license, Black Friday 2026](https://zxclip.com/) | 70% off Lifetime license, applied automatically at checkout, no code needed | Lifetime $24 (was $80) | 2026-12-01 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Mac video editor using local AI to edit video by editing the transcript: remove filler words and silences in one click, fix words with on-device voice cloning. Sale Nov 1 to Dec… |
+| [surl.li, 60% OFF All Plans, Black Friday 2026](https://surl.li/en) | 60% OFF All Plans | Lifetime $24 (was $80) | 2026-12-01 | <div align="center">—</div> | URL shortener with custom domains, QR codes, click analytics, API, and MCP server for AI agents. |
 
 [↑ Back to top](#awesome-black-friday--cyber-monday-2026-deals)
 
