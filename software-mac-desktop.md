@@ -1,6 +1,6 @@
 # Software & SaaS: Mac & Desktop Apps, Utilities, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **249 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **250 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -79,6 +79,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software
 | [Duckboard, 20% off Extended plan, Black Friday 2026](https://www.duckboard.pro/) | 20% off Extended plan, code BLACK2026FRIDAY | $29.00 to $23.20 | 2026-11-30 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Turn parts of any website into live, interactive desktop widgets and dashboards. macOS and Windows. One-time purchase. Nov 5 to Nov 30, 2026. |
 | [DuoBar, 29% off Pro, Black Friday 2026](https://www.teekamsuthar.com/duobar) | 29% off Pro | $4.99 (was $6.99) | 2026-12-01 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Merges your Mac's native menu bar icons (battery, Wi-Fi, memory and more) into one glanceable icon. One-time purchase on the Mac App Store, auto-applied. |
 | [DynamicLake, 30% off, Black Friday 2026](https://www.dynamiclake.com) | 30% off, code BLACKFRIDAY2026 | — | 2026-11-30 | [GitHub](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps) | Dynamic Island for Mac with iPhone Live Activities. Native macOS app. Nov 23 to Nov 30, 2026. |
+| [EasySwitch, 34-51% off every plan, Black Friday 2026](https://easyswitch.realbrain.cc/pricing) | 34-51% OFF every plan, one-time purchase | Pro $49 to $29 | 2026-11-30 | [GitHub](https://github.com/carmentune/best-black-friday-saas-deals) | No code needed; Nov 27 - Nov 30, 2026; software KVM for macOS, Windows and Linux, one keyboard and mouse across computers on the local network, shared clipboard and file… |
 | [EchoKeys, 50% off Lifetime Unlock, Black Friday 2026](https://apps.apple.com/app/id6764276614) | 50% off Lifetime Unlock | — | 2026-11-30 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Shows your keyboard shortcuts on screen as you press them. Mac app. No code needed. Nov 27 to Nov 30, 2026. |
 | [Ejectify 2, 29% off one-time purchase, Black Friday 2026](https://ejectify.app/?utm_source=bf2026-shortlisted) | 29% OFF one-time purchase | EUR 4.99 (was EUR 6.99) | 2026-11-30 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Code BLACKFRIDAY (auto-applied); Mac app |
 | [emcee, 10% off license, Black Friday 2026](https://fuzzyfoundry.com/emcee) | 10% off license | $2.69 (was $2.99) | 2026-12-01 | [GitHub](https://github.com/longseespace/mac-black-friday) | Window manager for macOS that works like an improved Stage Manager: group windows into stages and drag them between stages. Code BLACKFRIDAY26. Listed in the longseespace Mac… |

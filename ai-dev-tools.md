@@ -1,6 +1,6 @@
 # AI & Dev Tools: Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md). **400 deals** in this category, grouped below by what each product is for · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md). **401 deals** in this category, grouped below by what each product is for · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
 
 | Group | Deals |
 | --- | ---: |
@@ -14,6 +14,6 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md). **400 deals
 | [AI Coding, Models & APIs](ai-coding-models.md) | 71 |
 | [AI Security & Testing](ai-security-testing.md) | 7 |
 | [Developer Tools](dev-tools.md) | 49 |
-| [Other AI & Dev Tools](ai-other.md) | 98 |
+| [Other AI & Dev Tools](ai-other.md) | 99 |
 
 [← Back to the full list](README.md)

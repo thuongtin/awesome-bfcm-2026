@@ -1,10 +1,11 @@
 # Software & SaaS: Finance, Billing & Accounting, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **37 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **38 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
 | [Aster Mail, 50% off first 12 months, Black Friday 2026](https://astermail.org/) | 50% off first 12 months, no code needed | Nova $8.99 to $4.49/mo, yearly $86.99 to $43.49; Supernova $17.99 to $8.99/mo; Duo $12.99 to $6.49/mo;… | 2026-12-01 | [Reddit](https://www.reddit.com/r/AsterPrivacy/comments/1xoq8ex/black_friday_sale_50_off_your_first_12_months/) | End-to-end encrypted email, hosted in Germany. Deal appears in-app or under Billing in Settings; free plan users included, including brand new accounts. Aster Calendar now on… |
+| [Astrolinks, 60% off first year of Pro Yearly, Black Friday 2026](https://astrolinks.org/black-friday/) | 60% OFF first year of Pro (Yearly) | $90 to $36/yr | 2026-12-01 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Code BF60YEAR, applied automatically on Pro Yearly at checkout; Nov 26 - Dec 1, 2026; automatic time tracking by client for Mac and Windows, end-of-day reports and invoices, no… |
 | [BooksRail, 50% off one-time unlock, Black Friday 2026](https://apps.microsoft.com/detail/9PL6X2RTW7T9) | 50% off one-time unlock | — | 2026-11-30 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Double-entry accounting for Windows, Microsoft Store |
 | [Brand24, 3 months free with annual billing, Black Friday 2026](https://try.brand24.com/voucher) | 3 months free with annual billing | — | — | [GitHub](https://github.com/carmentune/black-friday-saas-deals) | AI-driven social listening and brand management tool. |
 | [Cashculator, 50% off Lifetime, Black Friday 2026](https://cashculator.app/) | 50% off Lifetime | $130 to $65 | 2026-11-30 | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | Personal finance tracker for Mac; through Nov 30 |

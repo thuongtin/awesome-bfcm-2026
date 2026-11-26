@@ -1,6 +1,6 @@
 # Software & SaaS: Email & Communication, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **30 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **31 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -16,6 +16,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software
 | [EmailOctopus Pro yearly, 30% off, Black Friday 2026](https://emailoctopus.com/) | 30% off Pro yearly plan | — | 2026-11-30 | [X](https://x.com/ItsAmolHustle/status/2123937939482935749) | Offer ends November 30 at midnight. Unlimited automations, users, forms and landing pages, no branding. |
 | [FaceCam, 40% off, Black Friday 2026](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY26) | 40% off | $6, $10 | 2026-12-02 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Floating camera overlay for Mac video calls and recordings: a movable facecam bubble with custom shapes, zoom, mirror and name labels Code BLACKFRIDAY26. |
 | [FormBold, 40% off All Paid plans with code BLFCM2026, Black Friday 2026](https://formbold.com/pricing) | 40% OFF All Paid Plans, recurring | — | 2026-12-01 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Form backend and API that sends submissions to email, Slack and Notion. Listed in the twf-nikhila Awesome Black Friday list, offer window Nov 17 to Dec 1, 2026. Updated Nov 18,… |
+| [Horcrux Email Backup, 30% off Horcrux 5 one-time purchase, Black Friday 2026](https://thehorcrux.com/pricing/#black-friday-2026) | 30% OFF Horcrux 5 one-time purchase | $49.99 to $34.99 | 2026-12-01 | [GitHub](https://github.com/longseespace/mac-black-friday) | Code BLACKFRIDAY2026; direct checkout or Mac App Store; US pricing; back up Gmail, Outlook and IMAP mail on your Mac, search offline, restore to another mailbox; Nov 25 - Dec 1,… |
 | [InboxPurge, 30% off all plans, Black Friday 2026](https://www.inboxpurge.com/pricing/?utm_source=tonybf) | 30% OFF all plans | — | — | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Code BF2026; no expiry stated |
 | [Jot, 33% off one-time licence, Black Friday 2026](https://sayjot.xyz/#pricing) | 33% off one-time licence | 1 Mac $9 to $6; 3 Macs $24 to $16; 10 Macs $69 to $46 | 2026-12-01 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday#readme) | No code needed, applied at checkout; 3-day free trial; notes inbox for Mac; also listed in longseespace list |
 | [Kasbna, 45% off all plans, Black Friday 2026](https://kasbna.app/) | 45% off | — | — | [X](https://x.com/Kasbnaapp/status/2120224614257143995) | Client follow-up / inbox app; 45% off 1-month, 6-month and 1-year plans. |

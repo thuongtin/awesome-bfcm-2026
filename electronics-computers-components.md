@@ -1,6 +1,6 @@
 # Electronics: Computers & Components, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Electronics index](electronics.md). **65 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Electronics index](electronics.md). **67 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -19,6 +19,8 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Electron
 | [Apple Mac mini M6 (mid 2026), 16GB RAM, 256GB, $699.99 at Micro Center, Black Friday 2026](<https://www.microcenter.com/product/715409/apple-mac-mini-mhqk4ll-a-(mid-2026)-desktop-computer>) | — | $699.99 | — | [Reddit](https://www.reddit.com/r/buildapcsales/comments/1y4igvk/) | Micro Center; M6 12-core CPU, 16GB unified memory, 256GB storage |
 | [Apple MacBook Air 13.6-inch Laptop (2026), M5 10-Core Chip, 16GB RAM, 512GB SSD, $989 at Amazon, Black Friday 2026](https://www.amazon.com/dp/B0GR1JTFP8) | — | $989 | — | [Reddit](https://www.reddit.com/r/buildapcsales/comments/1y3ho9k/) | Free shipping. |
 | [Apple MacBook Air 13.6-inch M5 16GB/512GB, $1,049 at Best Buy, Black Friday 2026](https://www.bestbuy.com/product/apple-macbook-air-13-inch-laptop-m5-chip-with-10-core-cpu-and-8-core-gpu-16gb-memory-512gb-ssd-midnight/JJGCQLKXL7/sku/6397846) | — | $1,049 | — | [Reddit](https://www.reddit.com/r/buildapcsales/comments/1y02s24/) | M5 10-Core Chip, 16GB RAM, 512GB SSD, Midnight; free shipping |
+| [ASUS Dual Radeon RX 9060 XT 16GB GDDR6 Gaming Graphics Card, $524.69 at Amazon, Black Friday 2026](https://www.amazon.com/dp/B0FLHBFFX4) | — | $524.69 | — | [Reddit](https://www.reddit.com/r/buildapcsales/comments/1y5lutp/) | ASUS Dual RX 9060 XT 16GB GDDR6 gaming graphics card |
+| [ASUS Prime Radeon RX 9070 EVO 16GB GDDR6 OC Edition, $722.69 at Amazon, Black Friday 2026](https://www.amazon.com/dp/B0FRPW9V2Y) | — | $722.69 | — | [Reddit](https://www.reddit.com/r/buildapcsales/comments/1y5lwgy/) | ASUS Prime RX 9070 EVO 16GB GDDR6 OC Edition graphics card |
 | [ASUS ROG NUC 16 Gaming Mini PC, Ultra 7 270HX Plus, RTX 5060, 16GB DDR5, 1TB SSD, $2099.00 (list $2399.00) at Amazon, Black Friday 2026](https://www.amazon.com/dp/B0HB1WMGCF) | — | $2099.00 (list $2399.00) | — | [X](https://x.com/technewsonweb/status/2123578331673268325) | Includes 3 months of PC Game Pass |
 | [ASUS TUF Gaming A16 Laptop, $1099 at Walmart, Black Friday 2026](https://www.walmart.com/ip/High-Performance-Laptop-Computer-for-Everyday-Use/20135016910) | — | $1099 | — | [Reddit](https://www.reddit.com/r/buildapcsales/comments/1xxi3ct/laptop_asus_tuf_gaming_a16_laptop_16_fhd_ryzen_7/) | 16-inch FHD+, Ryzen 7 8745HX, RTX 5060, 16GB DDR5, 512GB; r/buildapcsales |
 | [ASUS Vivobook 16, Snapdragon X, $424.99, Amazon US Early Black Friday 2026](https://www.amazon.com/dp/B0HCPYBK67) | 15% off (list $499.99) | $424.99 | — | [X](https://x.com/technewsonweb/status/2122040272192442488) | Amazon US Early Black Friday deal; X1607QA-PB54, 8GB RAM, 512GB SSD; via @technewsonweb. |
