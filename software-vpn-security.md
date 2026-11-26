@@ -1,6 +1,6 @@
 # Software & SaaS: VPN, Security & Privacy, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **60 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **61 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -16,6 +16,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software
 | [Bitdefender, up to 78% off, Black Friday 2026](https://www.bitdefender.com/) | Up to 78% off | Premium from $12.99 | — | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | Antivirus plus VPN and password manager. Listed in the Shashankt255 black-friday-deals-2026 list as a confirmed deal. |
 | [Clipboard Manager Pro, 35% off Pro Yearly with code BF2026, Black Friday 2026](https://clipboardman.com/) | 35% off Pro Yearly, code BF2026 | Pro Yearly $15.59/year (was $23.99) | 2026-12-01 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Clipboard history app with search and snippets; password fields never stored. Free plan stays free, 30-day money-back. Sale Nov 27 to Dec 1, 2026. Listed in the trungdq88 list,… |
 | [DeleteMe, 20% off privacy plans with code BFCM2026, Black Friday 2026](https://joindeleteme.com/) | 20% off privacy plans | — | 2026-11-30 | [GitHub](https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday) | Code BFCM2026; data broker removal service; new members only; Nov 30 |
+| [Doppelganger ATLAS, 50% off license, Black Friday 2026](https://store.physicalexploit.com/products/atlas) | 50% off ATLAS license for one year | $19.50 for one device (was $39) | 2026-12-01 | [GitHub](https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday/blob/main/README.md) | Applies at checkout, no code. Android app for authorized physical security assessments. Added to ps-lo list 2026-11-25. |
 | [EasyGuard VPN, up to 75% off, Black Friday 2026](https://easyguard.app/) | Up to 75% off ($49.99 to $14.99/yr) | $14.99/yr (was $49.99) | 2026-11-30 | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | WireGuard VPN, up to 10 devices. No code needed. Also listed in trungdq88/Awesome-Black-Friday-Cyber-Monday. |
 | [Easynews, 91% off, Black Friday 2026](https://signup.easynews.com/checkout/exclusive-deal-for-you-z) | 91% off, $1.65/mo | $24.75 for 15 months (12 + 3 free); renews $89.99/yr | — | [Reddit](https://www.reddit.com/r/UsenetGuides/comments/1xnya3a/best_usenet_black_friday_deals_2026/) | Unlimited browser-based Usenet + NNTP, 60 connections; free unlimited VPN. From the r/UsenetGuides BFCM 2026 roundup posted 2026-11-04. |
 | [ESET HOME Security, 50% off with code CYBER2026, Black Friday 2026](https://www.eset.com/us/home/protection-plans/) | 50% off | — | 2026-12-03 | [X](https://x.com/HelpMeFindDeals/status/2123919652514590940) | Promo code CYBER2026. Promotion runs November 19 through December 3, 2026; savings vary by plan. |

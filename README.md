@@ -2,13 +2,13 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Updated daily](https://img.shields.io/badge/updated-daily-brightgreen)](https://github.com/thuongtin/awesome-bfcm-2026)
-[![Deals](https://img.shields.io/badge/deals-2284-blue)](https://github.com/thuongtin/awesome-bfcm-2026)
+[![Deals](https://img.shields.io/badge/deals-2312-blue)](https://github.com/thuongtin/awesome-bfcm-2026)
 [![Last updated](https://img.shields.io/badge/last%20updated-2026--11--26-orange)](https://github.com/thuongtin/awesome-bfcm-2026/commits/main)
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](LICENSE)
 
 > A curated, categorized list of **Black Friday 2026** and **Cyber Monday 2026** (BFCM 2026) deals: AI & developer tools, software & SaaS, hosting & cloud, electronics, hardware & gadgets, courses, games, and more.
 
-**2284 deals** currently listed · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+**2312 deals** currently listed · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
 
 Community-sourced from **Reddit, GitHub, Facebook, and X** → Notion → published here as tables for fast scanning.
 
@@ -18,30 +18,30 @@ The list is split by category, and inside each category by what the product is f
 
 | Category | Deals |
 | --- | ---: |
-| [AI & Dev Tools](ai-dev-tools.md) | 401 |
-| [Software & SaaS](software-saas.md) | 1044 |
-| [Hosting & Cloud](hosting-cloud.md) | 102 |
+| [AI & Dev Tools](ai-dev-tools.md) | 406 |
+| [Software & SaaS](software-saas.md) | 1054 |
+| [Hosting & Cloud](hosting-cloud.md) | 106 |
 | [Electronics](electronics.md) | 235 |
 | [Hardware/Gadgets](hardware-gadgets.md) | 226 |
-| [Courses & Learning](courses-learning.md) | 131 |
+| [Courses & Learning](courses-learning.md) | 140 |
 | [Games](games.md) | 106 |
 | [Other](other.md) | 39 |
-| **Total** | **2284** |
+| **Total** | **2312** |
 
 ## Contents
 
-- [AI & Dev Tools](ai-dev-tools.md) (401)
-  - [AI Image, Video & Design](ai-image-video-design.md) (86) · [AI Audio, Voice & Music](ai-audio-voice-music.md) (18) · [AI Writing & Content](ai-writing-content.md) (22) · [AI Marketing & SEO](ai-marketing-seo.md) (13) · [AI Meetings, Notes & Productivity](ai-meetings-productivity.md) (18) · [AI Chatbots & Agents](ai-chatbots-agents.md) (15) · [AI Data, Research & Analytics](ai-data-research.md) (3) · [AI Coding, Models & APIs](ai-coding-models.md) (71) · [AI Security & Testing](ai-security-testing.md) (7) · [Developer Tools](dev-tools.md) (49) · [Other AI & Dev Tools](ai-other.md) (99)
-- [Software & SaaS](software-saas.md) (1044)
-  - [VPN, Security & Privacy](software-vpn-security.md) (60) · [Finance, Billing & Accounting](software-finance-billing.md) (38) · [Marketing & SEO](software-marketing-seo.md) (75) · [Social Media & Creators](software-social-media.md) (33) · [Streaming, Media & Entertainment](software-streaming-entertainment.md) (19) · [Design, Photo & Video Tools](software-design-creative.md) (138) · [CRM, Sales & Support](software-crm-sales-support.md) (14) · [Ecommerce & Online Business](software-ecommerce-business.md) (13) · [Email & Communication](software-email-communication.md) (31) · [HR, Hiring & Team](software-hr-team.md) (5) · [Productivity & Project Management](software-productivity-project.md) (95) · [Mac & Desktop Apps, Utilities](software-mac-desktop.md) (250) · [Personal, Family & Learning Apps](software-personal.md) (17) · [Other Software & SaaS](software-other.md) (256)
-- [Hosting & Cloud](hosting-cloud.md) (102)
-  - [VPS & Dedicated Servers](hosting-vps-dedicated.md) (38) · [Domains](hosting-domains.md) (29) · [Cloud Storage, Backup & CDN](hosting-cloud-storage.md) (6) · [Shared & WordPress Hosting](hosting-shared-wordpress.md) (18) · [Other Hosting & Cloud](hosting-other.md) (11)
+- [AI & Dev Tools](ai-dev-tools.md) (406)
+  - [AI Image, Video & Design](ai-image-video-design.md) (87) · [AI Audio, Voice & Music](ai-audio-voice-music.md) (18) · [AI Writing & Content](ai-writing-content.md) (22) · [AI Marketing & SEO](ai-marketing-seo.md) (13) · [AI Meetings, Notes & Productivity](ai-meetings-productivity.md) (18) · [AI Chatbots & Agents](ai-chatbots-agents.md) (15) · [AI Data, Research & Analytics](ai-data-research.md) (3) · [AI Coding, Models & APIs](ai-coding-models.md) (71) · [AI Security & Testing](ai-security-testing.md) (7) · [Developer Tools](dev-tools.md) (51) · [Other AI & Dev Tools](ai-other.md) (101)
+- [Software & SaaS](software-saas.md) (1054)
+  - [VPN, Security & Privacy](software-vpn-security.md) (61) · [Finance, Billing & Accounting](software-finance-billing.md) (38) · [Marketing & SEO](software-marketing-seo.md) (75) · [Social Media & Creators](software-social-media.md) (33) · [Streaming, Media & Entertainment](software-streaming-entertainment.md) (19) · [Design, Photo & Video Tools](software-design-creative.md) (138) · [CRM, Sales & Support](software-crm-sales-support.md) (14) · [Ecommerce & Online Business](software-ecommerce-business.md) (13) · [Email & Communication](software-email-communication.md) (31) · [HR, Hiring & Team](software-hr-team.md) (5) · [Productivity & Project Management](software-productivity-project.md) (96) · [Mac & Desktop Apps, Utilities](software-mac-desktop.md) (253) · [Personal, Family & Learning Apps](software-personal.md) (17) · [Other Software & SaaS](software-other.md) (261)
+- [Hosting & Cloud](hosting-cloud.md) (106)
+  - [VPS & Dedicated Servers](hosting-vps-dedicated.md) (38) · [Domains](hosting-domains.md) (31) · [Cloud Storage, Backup & CDN](hosting-cloud-storage.md) (6) · [Shared & WordPress Hosting](hosting-shared-wordpress.md) (18) · [Other Hosting & Cloud](hosting-other.md) (13)
 - [Electronics](electronics.md) (235)
   - [Monitors, TVs & Projectors](electronics-monitors-tvs.md) (63) · [Computers & Components](electronics-computers-components.md) (67) · [Phones & Tablets](electronics-phones-tablets.md) (24) · [Audio, Headphones & Speakers](electronics-audio.md) (12) · [Cameras & Drones](electronics-cameras-drones.md) (16) · [Wearables & Smartwatches](electronics-wearables.md) (18) · [Smart Home & Appliances](electronics-smart-home.md) (2) · [Other Electronics](electronics-other.md) (33)
 - [Hardware/Gadgets](hardware-gadgets.md) (226)
   - [PC Parts & Components](hardware-pc-parts.md) (29) · [Phone & Tablet Accessories](hardware-phone-accessories.md) (11) · [Storage, Drives & Memory](hardware-storage-memory.md) (24) · [Gaming Gear & Accessories](hardware-gaming-gear.md) (16) · [Power Stations, Solar & Batteries](hardware-power-solar.md) (12) · [Keyboards, Mice & Peripherals](hardware-peripherals.md) (22) · [Home, Travel & Everyday Gadgets](hardware-home-gadgets.md) (54) · [Other Hardware & Gadgets](hardware-other.md) (58)
-- [Courses & Learning](courses-learning.md) (131)
-  - [Programming, Tech & Certifications](courses-programming-tech.md) (81) · [Business, Marketing & Finance](courses-business-marketing.md) (4) · [Design, Photo, Video & Music](courses-design-creative.md) (4) · [Language & Exam Prep](courses-language-exams.md) (10) · [Other Courses & Learning](courses-other.md) (32)
+- [Courses & Learning](courses-learning.md) (140)
+  - [Programming, Tech & Certifications](courses-programming-tech.md) (85) · [Business, Marketing & Finance](courses-business-marketing.md) (4) · [Design, Photo, Video & Music](courses-design-creative.md) (4) · [Language & Exam Prep](courses-language-exams.md) (10) · [Other Courses & Learning](courses-other.md) (37)
 - [Games](games.md) (106)
   - [Bundles & Subscriptions](games-bundles-subscriptions.md) (18) · [Console Games](games-console.md) (16) · [PC Games](games-pc.md) (45) · [Other Games](games-other.md) (27)
 - [Other](other.md) (39)
