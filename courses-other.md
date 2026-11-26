@@ -1,6 +1,6 @@
 # Courses & Learning: Other Courses & Learning, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Courses & Learning index](courses-learning.md). **38 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Courses & Learning index](courses-learning.md). **39 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -14,6 +14,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Courses 
 | [CyberWarfare Live Infinity yearly access, $49, Black Friday 2026](https://cyberwarfare.live/cwl-cyber-infinity) | 51% off yearly access | $49/year (was $99); monthly $5 (was $9) | — | [GitHub](https://github.com/RedTeamOperations/black-friday-cyber-sale-2026) | Coupon INFINITY49 (yearly) / INFINITY5 (monthly); includes CRTA + AI-RTA |
 | [DataCamp, 60% off annual Premium, Black Friday 2026](https://www.datacamp.com/promo/biggest-annual-sale-26) | 60% off annual DataCamp Premium, Teams or DataLab Premium | — | 2026-11-29 | [GitHub](https://github.com/greatfrontend/black-friday-cyber-monday-deals/blob/main/README.md) | Nov 11 to Nov 29, 2026. Added in greatfrontend 72-deal refresh 2026-11-26 06:47 UTC. |
 | [DataCamp, 60% off Premium annual, Black Friday 2026](https://www.datacamp.com/) | 60% off Premium annual | $132/yr (reg $330) | 2026-11-29 | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | 60% off Premium annual, $132/yr (reg $330), through Nov 29; per the shashankt black-friday-deals-2026 list (Nov 19 update). |
+| [Exploring Java Libraries Volume 1, 50% off, $19.99 to $10, Black Friday 2026](https://leanpub.com/java-libraries-guide-1/c/BLACKFRIDAY50) | 50% off | $10 (was $19.99) | 2026-12-10 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals/blob/main/README.md) | Practical guide to 250 Java libraries for core systems, NIO, concurrency and JVM internals; code BLACKFRIDAY50, Nov 25 to Dec 10, 2026 |
 | [Fast Track Modern Purification Masterclass, 75% off, Black Friday 2026](https://learn.detoxdudes.com/2026-bf-optin) | 75% off | — | — | [X](https://x.com/MacinJoshua/status/2123823687224959382) | 4-month step-by-step program by Josh Macin. |
 | [Ham Radio Prep Black Friday sale, up to 70% off, Black Friday 2026](https://www.hamradioprep.com/black-friday) | Up to 70% off | — | — | [X](https://x.com/HamPrep/status/2122825395900686343) | Ham radio license prep courses (Technician, General, Extra) and related study offers. Black Friday sale live. |
 | [Hexordia, 35% off classes and vouchers, Black Friday 2026](https://learn.hexordia.com/s/store) | 35% off classes and class vouchers, code 26BF35 | — | 2026-12-07 | [GitHub](https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday) | Applies to on-demand and virtual live classes and to class vouchers. Nov 23 to Dec 7, 2026 (11:59 PM ET). |

@@ -1,9 +1,10 @@
 # Courses & Learning: Language & Exam Prep, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Courses & Learning index](courses-learning.md). **11 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Courses & Learning index](courses-learning.md). **12 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
+| [Babbel Language Learning lifetime subscription, $129.99 with code LEARN, Black Friday 2026](https://www.stacksocial.com/sales/babbel-language-learning-lifetime-subscription-all-languages?aid=a-x8krt9c9) | — | $129.99 | — | [Reddit](https://www.reddit.com/r/blackfriday/comments/1y66uoy/) | New members, all languages, code LEARN at checkout; lowest price, matches last year's Black Friday deal; 14 languages, 10,000+ hours, AI conversation partner |
 | [Erla, 70% off first year of Erla PRO with code BLACKFRIDAY, Black Friday 2026](https://erla.app/black-friday) | 70% off first year of Erla PRO | PRO $59.99 to $18 first year | 2026-11-30 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals#readme) | Code BLACKFRIDAY; new subscribers; Nov 12 to Nov 30, 2026; learn a language through short stories, videos and an AI teacher at your level, 22 languages on iPhone and iPad |
 | [FindExams, up to 50% off exam simulators, Black Friday 2026](https://findexams.com/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Up to 50% off | — | 2026-11-30 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Exam simulators for PMP, CBAP, ITIL 4 and more. Discount auto-applied, no coupon needed. Listed in the twf-nikhila list, updated Nov 10, 2026. Valid Nov 16 to Nov 30, 2026. |
 | [KasusKnacker, 50% off first year of Premium, Black Friday 2026](https://kasusknacker.com) | 50% off first year of Premium | EUR 17.49 for year one | 2026-11-30 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/blob/main/README.md) | Code BLACKFRIDAY50 (web and App Store); Google Play auto-applied. German grammar practice app. New subscribers only. Added to trungdq88 list 2026-11-26. |

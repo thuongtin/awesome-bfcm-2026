@@ -1,12 +1,14 @@
 # Games: Bundles & Subscriptions, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Games index](games.md). **18 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Games index](games.md). **20 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
 | [\[Steam\] Gears Triple Bundle Gears 5. Hivebusters, Gears Tactics (80%)](https://store.steampowered.com/bundle/21228/Gears_Triple_Bundle/) | 80% off | — | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y1h68h/) | Steam bundle |
 | [ArcSys Black Friday Bundle on Steam: Guilty Gear Strive, BlazBlue CentralFiction, UNDER NIGHT IN-BIRTH II Sys:Celes, 85% off, Black Friday 2026](https://store.steampowered.com/bundle/101044/Black_Friday/) | 85% off | $19.50 | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y1xrj9/) | — |
 | [Borderlands Collection: Pandora's Box, 79% off, $24.91, Fanatical](https://www.fanatical.com/en/game/borderlands-collection-pandoras-box) | 79% off | $24.91 | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y19fp8/) | — |
+| [Dressmaker, 30% off, $10.49 at Fanatical, Black Friday 2026](https://www.fanatical.com/en/game/dressmaker) | 30% off | $10.49 | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y66plj/) | — |
+| [Fanatical Build Your Own Boomer Shooter Bundle, 2/5/10 games for $9.99/$14.99/$19.99, Black Friday 2026](https://www.fanatical.com/en/pick-and-mix/build-your-own-boomer-shooter-bundle) | Build your own bundle | $9.99 for 2, $14.99 for 5, $19.99 for 10 | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y61vxn/) | Choose from DOOM Eternal, ULTRAKILL, HELLBREAK, Quake 4, Voltage High Society, Battle Shapers, Slayers X and more |
 | [Fanatical Build your own Casual Bundle, 3/5/7 games for $4.95/$7.99/$10.49, Black Friday 2026](https://www.fanatical.com/en/pick-and-mix/build-your-own-casual-bundle) | — | 3 games $4.95, 5 games $7.99, 7 games $10.49 | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y4dz9x/) | Casual games bundle; pick from Mall: Tidy Up Together, Infinite Ruins, Tiny Terraces and more. |
 | [GMG Masterful Remasters Bundle Volume 2, pay $5, Black Friday 2026](https://www.greenmangamingbundles.com/bundles/masterful-remasters-bundle-volume-ii/) | Pay $5 for the base tier | $5 (base tier); $11 and $16 tiers | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1xvfksr/gmg_bundle_masterful_remasters_bundle_volume_2/) | STAR WARS Bounty Hunter, System Shock: Enhanced Edition. The $11 tier adds STAR WARS Episode I: Jedi Power Battles and System Shock; the $16 tier adds Dungeons and Dragons… |
 | [Guild Wars 2 Complete Collection, 35% off, $64.90, Black Friday 2026](https://www.wingamestore.com/showcase/Guild-Wars-2-Sale/) | 35% off | Complete Collection $64.90 | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y5c0sz/) | Elder Dragon Saga bundle $32.35; Astral Ward Saga bundle $38.98; expansions $16.24 to $19.49 |

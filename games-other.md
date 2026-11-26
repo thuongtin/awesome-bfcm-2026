@@ -1,6 +1,6 @@
 # Games: Other Games, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Games index](games.md). **27 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Games index](games.md). **28 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -15,6 +15,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Games in
 | [HELLDIVERS 2, 36% off, 25.46 EUR at EtailMarket, Black Friday 2026](https://etail.market/helldivers-2-194) | 36% off | 25.46 EUR | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y23xds/) | — |
 | [Jacksepticeye Thankmas 2026 Collection, pay $10 for 8 games at Digiphile, Black Friday 2026](https://www.digiphile.co/thankmas) | Pay $10 for 8 games | $10 | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1xyqdnj/) | Oxygen Not Included, Anger Foot, SOMA, Paint the Town Red, Choo-Choo Charles, Poppy Playtime Chapter 2, Breathedge, Turbo Dismount. Posted on r/GameDeals. |
 | [LEGO Star Wars: The Skywalker Saga, 91% off about $4.50 with code CHEERS, Black Friday 2026](https://store.playsum.live/product/c82c90f3-39cd-4704-b283-f8cd279cdbdf/lego-star-wars-the-skywalker-saga) | 91% off | ~$4.50 | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y13jr8/) | Code CHEERS; also EUR 4.18, CAD 5.40, GBP 3.34 |
+| [Marathon, 62% off, $15.00 at Green Man Gaming, Black Friday 2026](https://www.greenmangaming.com/games/marathon-pc/) | 62% off | $15.00 | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y65sop/) | Also listed at 13.13 GBP, 15.00 EUR |
 | [Marvel Tokon: Fighting Souls, $41.99, 30% off on Green Man Gaming, Black Friday 2026](https://www.greenmangaming.com/games/marvel-tokon-fighting-souls-pc/) | 30% off | $41.99 | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y0e3b6/) | — |
 | [Merchant of the Skies, $7.99 to $4.95 on iOS, Black Friday 2026](https://apps.apple.com/us/app/merchant-of-the-skies/id6754459969) | — | $4.95 | 2026-12-04 | [Reddit](https://www.reddit.com/r/AppHookup/comments/1y3hsf3/) | Lowest price ever. Premium pixel-art trading sim, no ads or IAP, universal iPhone/iPad/Mac/Apple TV. |
 | [Merchant of the Skies, Android game, $7.99 to $4.95, Black Friday 2026](https://play.google.com/store/apps/details?id=com.astralride.mots) | $7.99 to $4.95 | $4.95 | — | [Reddit](https://www.reddit.com/r/AppHookup/comments/1y1xwyv/) | Trading and base building game, premium, no ads, no in-app purchases |

@@ -1,16 +1,18 @@
 # Games: PC Games, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Games index](games.md). **45 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Games index](games.md). **47 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
 | [007 First Light, 50% off, $34.99 on Steam, Black Friday 2026](https://store.steampowered.com/app/3768760/007_First_Light/) | 50% off | $34.99 | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y3xo4r/) | Posted on r/GameDeals. |
 | [1000xRESIST, 50% off on Steam, Black Friday 2026](https://store.steampowered.com/app/1675830/1000xRESIST/) | 50% off | $9.99 | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y38vgj/) | Steam Autumn Sale price. |
+| [A Tiny Sticker Tale, free on Epic Games Store (iOS and Android), Black Friday 2026](https://store.epicgames.com/p/a-tiny-sticker-tale-ios-3aad92) | 100% off | Free (was CA$4.59) | — | [Reddit](https://www.reddit.com/r/AppHookup/comments/1y65pmz/) | Cozy miniature adventure; also free on Android via Epic: https://store.epicgames.com/p/a-tiny-sticker-tale-android-7c58b7 |
 | [Arcadium: Space Odyssey, $4.39, 45% off on Steam, Black Friday 2026](https://store.steampowered.com/app/2352670/Arcadium__Space_Odyssey/) | 45% off | $4.39 | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y3qn2n/) | — |
 | [Arctico: $0.99, 90% off on Steam](https://store.steampowered.com/app/325210/Arctico) | 90% off | $0.99 | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y2trrt/) | — |
 | [Battlefield 6, 67% off, Steam](https://store.steampowered.com/app/2807960/Battlefield_6/) | 67% off | — | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y18wlu/) | Steam price not verified, store page is age gated |
 | [BitLoaf, 20% off on Steam, Black Friday 2026](https://store.steampowered.com/app/5436360/) | 20% off | $3.99 (was $4.99) | 2026-12-01 | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y4nf6t/) | Steam; introductory offer ends Dec 1, 2026; poster disclosed being the developer |
 | [BloodDome99, 50% off on Steam, Black Friday 2026](https://store.steampowered.com/app/2351890/BloodDome99/) | 50% off | $2.49 | — | [Reddit](https://www.reddit.com/comments/1xxs7n8/) | Via r/GameDeals. |
+| [Bread & Fred, free on Epic Games Store, Black Friday 2026](https://store.epicgames.com/p/bread-and-fred-1db362) | 100% off | Free | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y64nbp/) | Co-op platformer about two penguins; was CA$16.99 |
 | [Cloudy with a Chance of Kittens, 15% off on Steam, Black Friday 2026](https://store.steampowered.com/app/3237870/Cloudy_with_a_Chance_of_Kittens/) | 15% off | — | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y4otpl/) | Steam; r/GameDeals |
 | [Consonance on Steam, $2.99, 40% off, Black Friday 2026](https://store.steampowered.com/app/3750640/Consonance/) | 40% off | $2.99 | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y11qv6/) | — |
 | [Contractor: The Clean Up Part II, free on Epic Games Store, Black Friday 2026](https://store.epicgames.com/p/contractor-the-clean-up-part-ii-1b1b57) | 100% off | Free | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1xzsy12/) | — |

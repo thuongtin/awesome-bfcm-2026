@@ -1,6 +1,6 @@
 # Electronics: Other Electronics, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Electronics index](electronics.md). **33 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Electronics index](electronics.md). **34 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -37,5 +37,6 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Electron
 | [Nothing Phone (4a) Pro, $101 off at Amazon, Early Black Friday 2026](https://www.amazon.com/dp/B0GFWNZFFD) | $101 off | 8+128GB $398 (was $499); 12+256GB $484 (was $599) | — | [X](https://x.com/9to5toys/status/2121521222903124436) | Early Black Friday deal at Amazon, listed in the 9to5Toys Nothing deals roundup Nov 14, 2026. |
 | [WD Elements 20TB Desktop External Hard Drive, $549.99 at Amazon, Black Friday 2026](https://www.amazon.com/dp/B09VCXWPQG) | 37% off | $549.99 (list $879.99) | — | [X](https://x.com/technewsonweb/status/2123410515716386847) | — |
 | [XFX Swift AMD Radeon RX 9070XT 16GB GDDR6 White, $869.99 at Best Buy, Black Friday 2026](https://www.bestbuy.com/product/xfx-swift-amd-radeon-rx-9070xt-16gb-gddr6-pci-express-5-0-gaming-graphics-card-white/J39HPQ8XPT) | — | $869.99 | — | [Reddit](https://www.reddit.com/r/buildapcsales/comments/1xzozy4/) | — |
+| [Zalman Pylon mATX mini tower case, $29.99 at Newegg, Black Friday 2026](https://www.newegg.com/zalman-micro-atx-mini-tower-abs-aluminum-steel-cases-computer-cases-atx-form-black/p/2AM-0022-000U5?item=9SIABW9MAE0047) | — | $29.99 | — | [Reddit](https://www.reddit.com/r/buildapcsales/comments/1y67q7t/) | Front RGB light strip, USB 3.0 and Type-C, 120mm fan pre-installed, fits standard ATX PSU, compact mATX mini tower |
 
 [← Back to Electronics](electronics.md) · [Back to the full list](README.md)

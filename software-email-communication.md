@@ -1,6 +1,6 @@
 # Software & SaaS: Email & Communication, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **31 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **32 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -33,6 +33,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software
 | [ScreenShield, 41% off lifetime Pro, Black Friday 2026](https://sky-blue1111.github.io/screenshield-site/) | 41% off lifetime Pro | $29 one-time (was $49) | 2026-11-30 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Chrome extension that hides emails, phone numbers, card numbers and API keys on web pages while you share your screen. Runs locally in the browser. No code needed. Free plan for… |
 | [SmartInbox, 60% off, Black Friday 2026](https://loshadki.app/smartinbox/) | 60% off | $1.99 one-time (was $4.99) | 2026-12-01 | [GitHub](https://github.com/longseespace/mac-black-friday) | Code BLACKFRIDAY26; Mac App Store $1.99, no code; spam and phishing filter for Apple Mail; requires macOS 26 |
 | [Sponsonizer, 50% off first year of Pro Yearly, Black Friday 2026](https://sponsonizer.com/?ref=dqhieu) | 50% off first year of Pro Yearly, code BF2026 | $99 to $49.50 | 2026-11-30 | [GitHub](https://github.com/dqhieu/black-friday-deals) | Sell newsletter sponsorships: sponsors pick an open slot, fill in their ad and pay with Stripe. From the dqhieu list, also in the trungdq88 list. |
+| [Startup Buffer, 50% off homepage features, Black Friday 2026](https://startupbuffer.com/promote) | 50% off homepage features | 2 weeks $24.50 (was $49); 3 months $149.50 (was $299) | 2026-12-04 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals/blob/main/README.md) | Startup directory with 33,000+ listings, homepage features, newsletter and social placements; auto-applied, Nov 26 to Dec 4, 2026 |
 | [Suzume Mail, 50% off one-time unlock, Black Friday 2026](https://www.yuzool.com/apps/suzume/) | 50% OFF one-time unlock | $9.99 (was $19.99) | 2026-12-02 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | No code (App Store price); covers all devices; 14-day free trial; email app for Mac, iPhone and iPad |
 | [Tuta, 12 months free on Revolutionary or Legend plans, Black Friday 2026](https://tuta.com/black-friday) | Additional 12 months free on Revolutionary or Legend plans (2 years for the price of 1) | — | 2026-11-30 | [GitHub](https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday) | Encrypted email and calendar, Germany-based; new customers only |
 
