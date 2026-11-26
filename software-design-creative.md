@@ -1,6 +1,6 @@
 # Software & SaaS: Design, Photo & Video Tools, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **138 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **139 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -68,6 +68,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software
 | [Mockvid, 20% off Studio first year ($49 to $39.20), Black Friday 2026](https://mockvid.com/?utm_source=bf26-trungdq88) | 20% off Studio, first year, no code needed | $39.20/yr (was $49) | 2026-12-01 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Paste a URL, get a 3D animated mockup video of your website on laptop and phone. Nov 23 to Dec 1, 2026. Listed in trungdq88/Awesome-Black-Friday-Cyber-Monday. |
 | [MotionShine, 50% off all paid plans with code BF50, Black Friday 2026](https://motionshine.com/#pricing) | 50% off all paid plans with code BF50 | Pro Forever $49.50 (was $99); Pro $24.50 (was $49); Agency $89.50 (was $179) | 2026-12-05 | [GitHub](https://github.com/longseespace/mac-black-friday) | Mac screen recorder with auto zoom, smooth cursor, backgrounds and captions, plus a built-in editor. One-time purchase direct from the website, 30-day money-back guarantee.… |
 | [Must-Have Plugins, up to 70% off, Black Friday 2026](https://musthaveplugins.com/offer/) | Up to 70% off every plugin | — | 2026-12-01 | [X](https://x.com/i/status/2119535606246031822) | WordPress plugins. Until December 1. |
+| [Next.js Templates, 40% off all templates, Black Friday 2026](https://getnextjstemplates.com/) | 40% off all templates | — | 2026-12-01 | [GitHub](https://github.com/greatfrontend/black-friday-cyber-monday-deals/blob/main/README.md) | Code BFCM. Next.js templates. Added to greatfrontend list 2026-11-26. |
 | [NextAdmin, 40% off All plans with code BLFCM2026, Black Friday 2026](https://nextadmin.co/pricing) | 40% OFF All Plans | — | 2026-12-01 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | 200+ Next.js dashboard templates and UI components. Listed in the twf-nikhila Awesome Black Friday list, offer window Nov 17 to Dec 1, 2026. Updated Nov 18, 2026: discount raised… |
 | [NextJS Templates, 40% off Business plans with code BLFCM2026, Black Friday 2026](https://nextjstemplates.com/all-access) | 40% off Business plans with code BLFCM2026 | — | 2026-12-01 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | 20+ Next.js templates, starter kits and boilerplates. Listed in the twf-nikhila Awesome Black Friday list, offer window Nov 17 to Dec 1, 2026. |
 | [NextjsTemplates, 40% off all plans, Black Friday 2026](https://nextjstemplates.com/) | 40% off all plans | — | 2026-12-01 | [GitHub](https://github.com/Pimjo/black-friday-deals) | 20+ high-performance Next.js templates for SaaS and portfolios. |

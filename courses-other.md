@@ -1,6 +1,6 @@
 # Courses & Learning: Other Courses & Learning, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Courses & Learning index](courses-learning.md). **37 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Courses & Learning index](courses-learning.md). **38 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -23,6 +23,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Courses 
 | [Manning, 45% off daily deals, Black Friday 2026](https://www.manning.com/) | 45% off daily deals | — | — | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | Unverified per list |
 | [MasterClass, 50% off, Black Friday 2026](https://www.masterclass.com/) | 50% off first year, auto-applied | $60 first year (was $120) | 2026-11-25 | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | 50% off first year, auto-applied; $60 first year (was $120); ends Nov 25, 2026, 11:59 PM PT. |
 | [Mastering Binary Files and Protocols workshop recordings, 15% off with code, Black Friday 2026](https://hackarcana.com/workshop-session/2026-mbf/join) | 15% off with code MBF-BLACK-FRIDAY; recordings already cut from 1350 CHF to 600 CHF | 600 CHF (was 1350 CHF), plus 15% off with code | 2026-11-30 | [X](https://x.com/gynvael/status/2122609255077294528) | Recordings of Gynvael Coldwind's Mastering Binary Files and Protocols workshop. Full recordings 600 CHF net (was 1350 CHF); also sold as individual modules at 75, 150, 150, 150,… |
+| [Mission Infosec, free access for 60 days, Black Friday 2026](https://devsecopspro.com/devsecops-pro-bfcm-2026) | Free access for 60 days | Free for 60 days | 2026-11-30 | [GitHub](https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday/blob/main/README.md) | Full course plus labs. DevSecOps and AppSec course. Added to ps-lo list 2026-11-26. |
 | [NeetCode Pro, Lifetime $207.90, Black Friday 2026](https://neetcode.io/pro) | Lifetime plan $207.90 (was $599) | $207.90 lifetime | 2026-12-01 | [GitHub](https://github.com/greatfrontend/black-friday-cyber-monday-deals/blob/main/README.md) | Added in greatfrontend 72-deal refresh 2026-11-26 06:47 UTC. |
 | [OffSec, 20% off Learn One subscription, Black Friday 2026](https://www.offsec.com/) | 20% off Learn One subscription; 15% off bundles | About $550 savings on Learn One | 2027-01-04 | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | Learn One subscription covering OSCP, OSWP and OSEP prep. Listed in the Shashankt255 black-friday-deals-2026 list as a confirmed deal. Also 15% off bundles per the same list. |
 | [Pluralsight, about 50% off, Black Friday 2026](https://www.pluralsight.com/) | About 50% off | — | — | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | Unverified per list; tech skills courses |
