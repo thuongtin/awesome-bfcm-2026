@@ -1,0 +1,13 @@
+# Software & SaaS: HR, Hiring & Team, Black Friday & Cyber Monday 2026 Deals
+
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **5 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+
+| Deal | Discount | Price | Expires | Source | Notes |
+| --- | --- | --- | --- | --- | --- |
+| [Guidejar, 40% off all plans with code BFCM26, Black Friday 2026](https://www.guidejar.com?ref=tonybf) | 40% off all plans, code BFCM26 | Pro $11.40/mo (was $19), Plus $15/mo (was $25), Business $41.40/mo (was $69), billed yearly | 2026-12-02 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Interactive guides for hand offs, onboarding and training; an AI agent writes the guide, adds translations and narrates it. Nov 24 to Dec 2, 2026. Listed in… |
+| [Portico, 25% off lifetime plans, Black Friday 2026](https://portico.run/lifetime) | 25% off lifetime plans, no code needed | Solo $37 (was $49); Practice $89 (was $119); Firm $172 (was $229), one payment | 2026-12-01 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Client onboarding for small firms: one link walks a new client through intake and payment, then leaves them a private portal with everything they signed. Sale Nov 23 to Dec 1,… |
+| [Slack, 25% off first 12 months of upgrades, Black Friday 2026](https://slack.com/promo/partner) | 25% off first 12 months of eligible upgrades | — | — | [GitHub](https://github.com/imrishit98/Black-Friday-and-Cyber-Monday-Deals) | For companies with 200 employees or fewer. Terms apply; end date not stated. Link is the Slack partner promo page as listed. |
+| [Timemator, 50% off Lifetime with code TM-BLACKFRIDAY26, Black Friday 2026](https://timemator.com) | 50% off Lifetime | Lifetime $39 to $19.50 | 2026-12-05 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals#readme) | Code TM-BLACKFRIDAY26, auto-applied; Nov 21 to Dec 5, 2026; automatic time tracking for Mac, records work from project files, apps and websites and turns it into timesheets; also… |
+| [Timesheet, 50% off first year of every annual plan, Black Friday 2026](https://timesheet.io/en/pricing) | 50% off first year of every annual plan | Pro $99.99 to $49.99 | 2026-11-30 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Auto-applied; new customers; time tracking |
+
+[← Back to Software & SaaS](software-saas.md) · [Back to the full list](README.md)

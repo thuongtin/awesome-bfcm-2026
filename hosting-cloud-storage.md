@@ -1,0 +1,14 @@
+# Hosting & Cloud: Cloud Storage, Backup & CDN, Black Friday & Cyber Monday 2026 Deals
+
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Hosting & Cloud index](hosting-cloud.md). **6 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+
+| Deal | Discount | Price | Expires | Source | Notes |
+| --- | --- | --- | --- | --- | --- |
+| [Cloud Based Backup (managed Nextcloud), up to 33% off, Black Friday 2026](https://cloudbasedbackup.com/en/pricing) | 33% off first year (yearly) / 15% off 12 months (monthly) | — | — | [X](https://x.com/cbb_cloud/status/2120119784583188853) | Managed Nextcloud hosting. Codes BF33YEARLY (yearly) and BF15MONTHLY (monthly). |
+| [Cloudways, 80% off managed hosting for first 2 months, Black Friday 2026](https://verifiedhostingdeals.com/cloudways-black-friday) | 80% off first 2 months | from $2.20/mo (regular from $11/mo) | — | [Reddit](https://www.reddit.com/r/verifiedhostingdeals/comments/1xttjfw/cloudways_black_friday_2026_80_off_managed/) | Coupon BFCM802 if promotion not auto-applied. New customers only; savings capped at $200/month. Covers managed hosting, Autonomous WordPress, Managed AI Agents, Velocity Node.js,… |
+| [Icedrive, 80% off the first year of annual Pro, 1TB Lifetime $299, Black Friday 2026](https://icedrive.net/) | 80% off the first year of annual Pro | 1 TB $14.38; 2 TB $21.58; 5 TB $40.78; 10 TB $71.98; 1 TB Lifetime $299 one-time | 2026-12-05 | [GitHub](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026) | Cloud storage. Ends Dec 5, 2026. Listed in EhsanulHaqueSiam/black-friday-deals-2026 (bf26-deals directory, built 2026-11-23). |
+| [IONOS, up to 94% off hosting, Black Friday 2026](https://www.ionos.com/) | Up to 94% off | From $1.00/mo | — | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | Shared hosting, 350GB storage. Listed in the Shashankt255 black-friday-deals-2026 list as a confirmed deal. |
+| [SiteGround, up to 88% off hosting, Black Friday 2026](https://www.siteground.com/) | Up to 88% off | From $1.99/mo | — | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | Shared and WordPress hosting, free SSL and CDN. Listed in the Shashankt255 black-friday-deals-2026 list as a confirmed deal. |
+| [Wordify, 50% off for 6 months with code BF50, Black Friday 2026](https://wordify.com/black-friday) | 50% off for 6 months, code BF50, new customers | Agency plans $2.50 a site/month (was $5), monthly minimum $25 (was $50); single-site Starter $7.50/month… | 2026-12-01 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Managed WordPress hosting for developers and agencies: SSH, Git and WP-CLI, staging, daily backups and Automated Safe Updates with automatic rollback on every plan. Free… |
+
+[← Back to Hosting & Cloud](hosting-cloud.md) · [Back to the full list](README.md)
