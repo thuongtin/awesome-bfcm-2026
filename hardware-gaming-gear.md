@@ -1,6 +1,6 @@
 # Hardware/Gadgets: Gaming Gear & Accessories, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Hardware/Gadgets index](hardware-gadgets.md). **16 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Hardware/Gadgets index](hardware-gadgets.md). **17 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -8,6 +8,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Hardware
 | [8Bitdo Ultimate 2C Wireless Controller for Windows PC and Android, $19.89, Black Friday 2026](https://www.amazon.com/dp/B0D739FJLG) | — | $19.89 | — | [Reddit](https://www.reddit.com/r/buildapcsales/comments/1y0u4g2/) | — |
 | [8BitDo Ultimate 3C+ Wireless Controller for PC and Android, $31.99, 20% off, Black Friday 2026](https://www.amazon.com/dp/B0HN45P1GX) | 20% off | $31.99 | — | [Reddit](https://www.reddit.com/r/buildapcsales/comments/1y0avna/) | — |
 | [Arduino, daily rotating Black Friday discounts, Black Friday 2026](https://store-usa.arduino.cc/) | Daily rotating Black Friday discounts | — | 2026-11-30 | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026#readme) | Microcontroller boards and IoT kits |
+| [Corsair Black Friday & Cyber Monday 2026, door busters up to 50% off plus free gifts, Black Friday 2026](https://www.corsair.com/) | Up to 50% off | — | — | [Reddit](https://www.reddit.com/r/Corsair/comments/1y6yciw/black_friday_cyber_monday_2026_door_busters_top/) | Official sale: Galleon 100 SD Keyboard $90 off + free Elgato Key Light Neo (first 1000 orders); Voxara USB mic $50 off + free Stream Deck Mini (first 500); Void Wireless v2… |
 | [DROP CSTM80 TKL Wired Mechanical Gaming Keyboard, $39.99 at Best Buy, Black Friday 2026](https://www.bestbuy.com/product/drop-cstm80-tkl-wired-mechanical-gaming-keyboard-with-rgb-backlighting-atomic-purple/J3GW9RGXLC) | Save $159.01 | $39.99 | — | [Reddit](https://www.reddit.com/r/buildapcsales/comments/1xyemoh/) | DROP CSTM80 TKL wired mechanical gaming keyboard with RGB backlighting, Atomic Purple. |
 | [DualSense Wireless Controller Midnight Black, 26% off at Best Buy, Black Friday 2026](https://www.bestbuy.com/product/sony-interactive-entertainment-dualsense-wireless-controller-for-ps5-pc-mac-mobile-midnight-black/JXHQ37T9XC/sku/6464307) | 26% off | $54.99 | — | [Reddit](https://www.reddit.com/comments/1xxl74f/) | PS5, PC, Mac and mobile controller, via r/buildapcsales. |
 | [Elgato, up to 30% off Stream Deck and creator gear, Black Friday 2026](https://www.elgato.com/) | Up to 30% off Stream Deck and creator gear | Stream Deck MK.2 $119.99 with free faceplates | 2026-11-30 | [GitHub](https://github.com/EhsanulHaqueSiam/black-friday-deals-2026) | Nov 16-30, 2026. Listed in EhsanulHaqueSiam/black-friday-deals-2026 (bf26-deals directory, built 2026-11-23). |

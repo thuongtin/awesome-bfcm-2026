@@ -1,6 +1,6 @@
 # Hardware/Gadgets: Home, Travel & Everyday Gadgets, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Hardware/Gadgets index](hardware-gadgets.md). **54 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Hardware/Gadgets index](hardware-gadgets.md). **55 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -20,6 +20,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Hardware
 | [Covert Instruments, 20 to 30% off most tools plus free gifts, Black Friday 2026](https://covertinstruments.com/) | 20 to 30% off most tools plus free gifts | — | 2026-12-06 | [GitHub](https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday) | Lockpicking and physical entry tools. Listed in ps-lo/InfoSec-and-Tech-Black-Friday. |
 | [Creality, up to 50% off 3D printers and scanners, Black Friday 2026](https://store.creality.com/pages/sale) | Up to 50% off 3D printers and scanners, flash sale in phases | — | 2026-11-29 | [GitHub](https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday) | Flash sale runs in phases Nov 1 to Nov 30; last phase listed by the InfoSec list ends Nov 29. Verified on official sale page Nov 8, 2026. |
 | [Dango Products, up to 65% off Black Friday 2026 collection](https://www.dangoproducts.com/collections/2026-black-friday-deals) | Up to 65% off select gear | From $5; D03 Dapper Bifold Wallet $40 (reg $79) | — | [X](https://x.com/GearReview/status/2120501800130564343) | Everyday carry gear: rugged wallets, pens, bundles. Collection page verified live Nov 11, 2026 with 20 sale products. Tweet by @GearReview Nov 11, 2026. |
+| [Deeper Connect Air, $100 off with code, $274 (was $374), Black Friday 2026](https://shop.deeper.network/products/deeper-connect-air) | $100 off | $274 (was $374) | — | [GitHub](https://github.com/Dutchosintguy/osint-black-friday-2026) | Code QMDXY. Pocket VPN travel router. Two Airs for $499. No end date shown (order by Dec 15 for Christmas delivery). |
 | [Dreame D20 Air Plus Robot Vacuum and Mop, $199.99 at Amazon, Black Friday 2026](https://www.amazon.com/dp/B0G5XVMVJN) | — | $199.99 (list $349.99) | — | [X](https://x.com/technewsonweb/status/2123391306760097953) | — |
 | [Dreame D30 Ultra Robot Vacuum and Mop, $379.96 (list $599.99) at Amazon, Black Friday 2026](https://www.amazon.com/dp/B0GQSGPQZ9) | $220.03 off | $379.96 (list $599.99) | — | [X](https://x.com/technewsonweb/status/2122985660441375221) | 25,000Pa suction, mop lifting, multifunctional base station |
 | [eufy E25 Robot Vacuum and Mop, $569.96 (list $999.99) at Amazon, Black Friday 2026](https://www.amazon.com/dp/B0FK2HPNCB) | $430.03 off | $569.96 (list $999.99) | — | [X](https://x.com/technewsonweb/status/2122987012898566544) | 20,000 Pa, HydroJet roller mop, all-in-one station, AI obstacle avoidance |

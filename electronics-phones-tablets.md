@@ -1,6 +1,6 @@
 # Electronics: Phones & Tablets, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Electronics index](electronics.md). **24 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Electronics index](electronics.md). **25 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -11,6 +11,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Electron
 | [Apple Refurbished Excellent 10.2-inch iPad (7th Generation) Wi-Fi 32GB Space Gray, $106 at Best Buy, Black Friday 2026](https://www.bestbuy.com/product/apple-10-2-inch-ipad-7th-generation-with-wi-fi-32gb-space-gray/JJ8XJYFCJP) | — | $106 | — | [Reddit](https://www.reddit.com/r/buildapcsales/comments/1y1zj0t/) | Refurbished, Excellent condition |
 | [Beats 360 Wireless Over-Ear Headphones, $249.00 at Amazon, Black Friday 2026](https://www.amazon.com/dp/B0HBZPBVQJ) | — | $249.00 (list $349.99) | — | [X](https://x.com/technewsonweb/status/2123723378909679837) | Active Noise Cancellation, Personalized Spatial Audio, IPX4, fold-flat design |
 | [Cape Cellular, up to $1,000 off iPhone, Black Friday 2026](https://www.cape.co/apple) | Up to $1,000 off iPhone | iPhone 17 $0; iPhone 17e $0; iPhone 18 Pro $199; iPhone 18 Pro Max $299; iPhone Duo $999 (each plus 3 months… | 2026-11-30 | [Reddit](https://www.reddit.com/r/CapeCellular/comments/1y5khux/) | New personal accounts only; not for business or federal plans; carrier locked for 24 months; cannot combine with other offers incl. referrals; 14-day return policy; Nov 25 to Nov… |
+| [DJI, Black Friday sale, Flip (RC-N3) EUR 279 (was EUR 349), Black Friday 2026](https://store.dji.com/nl/event/black-friday-2026) | — | from EUR 79 | 2026-11-30 | [GitHub](https://github.com/Dutchosintguy/osint-black-friday-2026) | NL store sale, last confirmed 25 Nov 2026: Flip (RC-N3) EUR 279 (was EUR 349); Osmo 360 Standard EUR 345 (was EUR 479.99); Action 4 EUR 189 (was EUR 239); Mic Mini 2+1 EUR 79… |
 | [Google Pixel 10 Pro 256GB, 789 GBP (RRP 1079 GBP), Amazon UK Black Friday 2026](https://www.amazon.co.uk/dp/B0H62T8RPM) | 27% off | 789 GBP (RRP 1079 GBP) | — | [X](https://x.com/technewsonweb/status/2123224198688674127) | Tweet labels it Pixel 11 Pro; 6.3-inch, Obsidian, 256GB and RRP 1079 GBP match Pixel 10 Pro |
 | [Google Pixel 10 Pro XL 512GB, 1082.12 GBP (RRP 1399 GBP), Amazon UK Black Friday 2026](https://www.amazon.co.uk/dp/B0H62MGMFV) | 23% off | 1082.12 GBP (RRP 1399 GBP) | — | [X](https://x.com/technewsonweb/status/2123225471378944146) | Canyon colour, unlocked |
 | [Google Pixel 11 Pro 512GB, $869 at Amazon, Black Friday 2026](https://www.amazon.com/dp/B0H838PJ8K) | — | $869 (list $1219) | — | [X](https://x.com/technewsonweb/status/2123405863352459364) | — |

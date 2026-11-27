@@ -1,11 +1,12 @@
 # Hosting & Cloud: Shared & WordPress Hosting, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Hosting & Cloud index](hosting-cloud.md). **18 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Hosting & Cloud index](hosting-cloud.md). **19 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
 | [BitHut, 58% off Plus for 3 months with code SHASHANKT2-A8S89Y, Black Friday 2026](https://bithut.app/pricing) | 58% off Plus for 3 months, code SHASHANKT2-A8S89Y | $5/mo (was $12), new customers | 2026-12-07 | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | Hosting for apps, bots and sites built with Claude, ChatGPT or Codex; your AI deploys over MCP. Nov 24 to Dec 7, 2026. Listed in Shashankt255/black-friday-deals-2026. |
 | [Bluehost, 15-25% off 12-month plans, Black Friday 2026](https://www.bluehost.com/) | 15-25% off 12-month plans | — | 2026-11-30 | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | Shared and WordPress hosting. Listed in the Shashankt255 black-friday-deals-2026 list as a confirmed deal. |
+| [Bluehost, Up to 25% off hosting & AI bundles, Black Friday 2026](https://bluehost.sjv.io/5kEWvn) | 25% off | — | — | [GitHub](https://github.com/carmentune/best-black-friday-saas-deals) | WordPress-recommended shared and cloud web hosting. |
 | [Cloudways, 50% off 3 months with code BFCM5050, Black Friday 2026](https://www.cloudways.com/) | 50% off 3 months | — | 2026-12-04 | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | Code BFCM5050; managed cloud hosting (DigitalOcean, Vultr, AWS, GCP) |
 | [Cloudways, BFCM hosting discount with CWBFCM80, Black Friday 2026](https://unified.cloudways.com/signup?id=1843559&coupon=CWBFCM80) | Code CWBFCM80 | — | — | [X](https://x.com/askbhupi/status/2117555851137540288) | Also reported: 50% off first 3 months for new customers. |
 | [ESN Hosting, 85% off first month, Black Friday 2026](https://panel.esnoffical.com/plans) | 85% OFF the first month on monthly plans, applied at checkout, no code | Elite 4 GB $4.49 to $0.67 first month | 2026-12-01 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Discord bot, Minecraft and game server hosting on a Pterodactyl web panel (Python, Node.js, Java and more). Stripe minimum $0.50. Deal verified live on the plans page. |

@@ -1,6 +1,6 @@
 # Software & SaaS: Ecommerce & Online Business, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **14 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **15 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -14,6 +14,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software
 | [PartnerLens, up to 65% off first year of annual plans, Black Friday 2026](https://partnerlens.app/pricing) | Up to 65% off first year of annual plans | Solo $95/yr (was $190); Growth $156/yr (was $390); Portfolio $346.50/yr (was $990) | 2026-12-02 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/blob/main/README.md) | Market intelligence for Shopify app developers: rank moves, competitor pricing, reviews and launches; no code needed, until Dec 2, 2026 00:00 UTC |
 | [SEA Post Purchase Survey Quiz, 30% off any plan for 3 months with code BFCMSEA30, Black Friday 2026](https://seacommerce.io/) | 30% off any plan for 3 months, code BFCMSEA30, limited spots | Starter $13.30/mo (was $19); Growth $34.30/mo (was $49) | 2026-12-07 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Post purchase survey for Shopify stores: automated workflows turn every BFCM response into personalized actions. Enter the code on the Plans page in the app, until Dec 7, 2026.… |
 | [Shopify, $1/month for first 3 months, Black Friday 2026](https://www.shopify.com/) | $1/month for first 3 months | $1/month for first 3 months | — | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | New stores |
+| [Shopify, up to 26% off annual plans + 3 months for $1/mo trial, Black Friday 2026](https://shopify.pxf.io/5gr3Pb) | 26% off | — | — | [GitHub](https://github.com/carmentune/best-black-friday-saas-deals) | Complete e-commerce platform and point-of-sale system. |
 | [Squarespace, 55% off select annual plans, Black Friday 2026](https://www.squarespace.com/) | 55% off select annual plans | — | — | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | Website builder and e-commerce |
 | [Tagnivo, 50% off Lifetime Unlock, Black Friday 2026](https://apps.apple.com/app/id6804351905) | 50% off Lifetime Unlock | — | 2026-11-30 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Manage assets, employee assignments, supplies and inventory audits in one Mac app. No code needed. Nov 27 to Nov 30, 2026. |
 | [WHMSPro, 1 month free for up to 5 users with code BLACKFRIDAY26, Black Friday 2026](https://whmspro.com/) | 1 month free for up to 5 users | — | 2026-12-01 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals#readme) | Code BLACKFRIDAY26; Nov 21 to Dec 1, 2026; QR-powered warehouse management for inventory, orders, storage and fulfillment, no special hardware needed |
