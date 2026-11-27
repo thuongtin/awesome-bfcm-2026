@@ -1,6 +1,6 @@
 # Games: PC Games, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Games index](games.md). **47 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Games index](games.md). **48 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -27,6 +27,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Games in
 | [GOG Black Friday Sale, Fallout: New Vegas Ultimate Edition $4.99 (-75%), Black Friday 2026](https://www.gog.com/en/black-friday) | Up to 75% off; Fallout: New Vegas Ultimate Edition -75% | Fallout: New Vegas Ultimate Edition $4.99 | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y5dsda/) | Also FTL: Advanced Edition on sale |
 | [GOG Crime Games Promo, up to 90% off, Black Friday 2026](https://www.gog.com/en/promo/20261115_crime_games_promo) | Up to 90% off | Sleeping Dogs: Definitive Edition $2.99, Saints Row: The Third $3.75, RoboCop: Rogue City $4.49 | — | [Reddit](https://www.reddit.com/comments/1xxvj03/) | Crime games promo on GOG, via r/GameDeals. |
 | [GOG RPG Promo, up to 90% off, Black Friday 2026](https://www.gog.com/en/promo/20261115_rpg_promo) | Up to 90% off | From $1.99 | — | [Reddit](https://www.reddit.com/comments/1xx1dc2/) | Seasonal RPG promo in the BFCM window, posted in r/GameDeals 2026-11-15: Fallout 4 GOTY $9.99 (75% off), Skyrim Special Edition $7.99 (80% off), EVERSPACE $1.99 (90% off),… |
+| [GOG.com, Up to 95% OFF , 3,000+ deals (Nov 25 – Dec 3), Black Friday 2026](https://www.gog.com/) | Up to 95% OFF , 3,000+ deals (Nov 25 – Dec 3) | — | 2026-12-03 | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | DRM-free PC games |
 | [Grounded, 60% off, $15.99](https://store.steampowered.com/app/962130/Grounded/) | 60% off | $15.99 | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y1ot51/) | Steam, r/GameDeals, posted during BFCM week, no explicit Black Friday tag in title |
 | [Hogwarts Legacy, 90% off plus 20% extra with code LEVIOSA, $4.80 at GamersGate, Black Friday 2026](https://www.gamersgate.com/product/hogwarts-legacy/) | 90% off plus 20% extra with code LEVIOSA | $4.80 | 2026-11-27 | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y4ermd/) | Code LEVIOSA; Steam; all regions; ends Nov 27 CET; code also works on other versions |
 | [Howl on Steam, 80% off, 1.99 EUR, Black Friday 2026](https://store.steampowered.com/app/2172180/Howl/) | 80% off | €1.99 | — | [Reddit](https://www.reddit.com/r/GameDeals/comments/1y549hr/) | Posted in r/GameDeals |

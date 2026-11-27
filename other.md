@@ -1,6 +1,6 @@
 # Other: Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md). **41 deals** in this category · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md). **42 deals** in this category · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -8,6 +8,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md). **41 deals*
 | [Airalo eSIM, 25% off with code BLACK25, Black Friday 2026](https://www.airalo.com/m/esim/unlimited-packages/) | 25% off | — | — | [X](https://x.com/Travelsmartly3/status/2122303901387149621) | eSIM for travel, stay connected worldwide. Code BLACK25 at checkout, tap Use Airmoney / Code and paste BLACK25. |
 | [Allow Some Deny All stickers, 10% off orders $20-25, 20% off over $25, Black Friday 2026](https://shop.allowsomedenyall.com) | 10% off $20-25 orders; 20% off over $25 | — | 2026-12-31 | [GitHub](https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday) | Auto-applied at checkout; free standard shipping over $25; cybersecurity and hacker culture stickers |
 | [Apple Gift Card $100: free $15 Target GiftCard](https://www.target.com/p/-/A-80893567) | Free $15 Target GiftCard | $100 | 2026-11-29 | [Reddit](https://www.reddit.com/r/blackfriday/comments/1y2qmog/) | Limit 1 per order; same offer at Best Buy (free $15 Best Buy eGift Card) |
+| [AT&T, AT&T Fiber from $35/mo (with wireless bundle) or 1 Gig + $100 Visa Reward Card & 3 mos YouTube TV;, Black Friday 2026](https://attmarketplace.partnerlinks.io/wireless-deals) | AT&T Fiber from $35/mo (with wireless bundle) or 1 Gig + $100 Visa Reward Card & 3 mos… | $35, $100, $0 | — | [GitHub](https://github.com/carmentune/best-black-friday-saas-deals) | Enterprise telecommunications, internet, and networking solutions. |
 | [Best Buy $100 gift card for $60, in-store only, Black Friday 2026](https://corporate.bestbuy.com/2026/black-friday-sale-deals/) | $100 gift card for $60 (40% off) | $60 (was $100) | — | [Reddit](https://www.reddit.com/r/buildapcsales/comments/1y5i9rp/) | In-store only, Nov 27 starting 6 AM; extremely YMMV |
 | [Best Buy, $100 Apple eGift Card plus $15 Best Buy eGift Card for $100, Black Friday 2026](https://www.bestbuy.com/product/100-apple-gift-card-app-store-apple-music-itunes-iphone-ipad-airpods-accessories-and-more-digital/J33V3X8545) | Buy $100 Apple eGift Card, get $15 Best Buy eGift Card free | $100 | — | [Reddit](https://www.reddit.com/r/blackfriday/comments/1y1epqt/) | Apple eGift Card for App Store, Apple Music, iTunes |
 | [Costco $100 inKind One Restaurant eGift Card, $64.99 (35% off), Black Friday 2026](https://www.costco.com/p/-/4000233859) | 35% off | $64.99 (was $100) | — | [Reddit](https://www.reddit.com/r/blackfriday/comments/1y64518/) | Costco members only, limit 5, today only; valid at thousands of participating restaurants, bars and cafes, redeem through the inKind app, delivered by email |

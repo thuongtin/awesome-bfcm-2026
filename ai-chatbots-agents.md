@@ -1,6 +1,6 @@
 # AI & Dev Tools: AI Chatbots & Agents, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [AI & Dev Tools index](ai-dev-tools.md). **17 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [AI & Dev Tools index](ai-dev-tools.md). **18 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -20,6 +20,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [AI & Dev
 | [TestDino, 30% off first year of annual Pro and Team plans, Black Friday 2026](https://testdino.com/pricing) | 30% off first year of annual Pro and Team plans | — | 2026-12-03 | [GitHub](https://github.com/hehachris/awesome-black-friday-for-vibe-coders) | Code DINOFRIDAY30; Playwright test reporting for teams and AI agents; ends Dec 3; from the hehachris awesome-black-friday-for-vibe-coders list |
 | [Tidio Lyro AI, $1 for first 2 months, Black Friday 2026](https://www.tidio.com/black-friday/) | Lyro AI Agent monthly $1 for first 2 months | $78 to $1 (50 conversations plan example) | 2026-12-05 | [GitHub](https://github.com/thoughtcook/verified-black-friday) | Early Black Friday. Promo codes BFCM50 through BFCM1000 by quota. Verified by thoughtcook on 2026-11-04. |
 | [VMPal, 25% off, Black Friday 2026](https://vmpal.com/pricing?utm_source=black-friday-2026) | 25% off with code BLACK_FRIDAY_2026 | Individual $69 to $51.75; Team $99 to $74.25 per seat, one-time purchase | 2026-12-03 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | macOS, Windows and Linux virtual machines for Apple silicon, downloaded and installed in minutes, with GPU acceleration. Built for AI agents too, with a built-in MCP server and a… |
+| [WoopSocial, 30% OFF Pro or Business for 12 months with code BFCM2026 (Pro $13.30 (was $19)/mo, Business $34.30, Black Friday 2026](https://www.woopsocial.com/pricing?utm_source=awesome-bfcm) | 30% OFF Pro or Business for 12 months with code BFCM2026 (Pro $13.30 (was $19)/mo,… | $13.30, $19, $34.30 | 2026-12-01 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Let Claude, ChatGPT, Cursor, Grok or any AI agent post to your social media. One API and an official MCP plugin to publish to Facebook, Instagram, X, LinkedIn, Pinterest,… |
 | [WPOS, 50% off site licences for 2 months with code FRIDAY50, Black Friday 2026](https://wpos.ai/black-friday/) | 50% off | $25 to $12.50 per site per month | 2026-11-30 | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | Code FRIDAY50; +15,000 free credits for new accounts; AI agent inside wp-admin for WordPress sites |
 
 [← Back to AI & Dev Tools](ai-dev-tools.md) · [Back to the full list](README.md)
