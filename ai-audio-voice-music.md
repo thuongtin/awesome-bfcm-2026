@@ -1,9 +1,10 @@
 # AI & Dev Tools: AI Audio, Voice & Music, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [AI & Dev Tools index](ai-dev-tools.md). **21 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [AI & Dev Tools index](ai-dev-tools.md). **22 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
+| [AI Teleprompter, 50% off Annual first year and Lifetime, Black Friday 2026](https://aiteleprompterapp.com/holiday-sale/) | 50% off Annual first year and Lifetime, no code needed, auto-applied in app | Annual $19.99 first year (was $39.99); Lifetime $24.99 one-time (was $49.99) | 2027-01-01 | [GitHub](https://github.com/thuongtin/awesome-bfcm-2026/issues/98) | Voice-follow teleprompter for iPhone and iPad. Sale window Nov 20, 2026 to Jan 1, 2027 per the official page; the page also shows a sale-ended line while still displaying the… |
 | [Blip AI Pro, 50% off first year, Black Friday 2026](https://www.blipai.app/) | 50% off first year with code SWITCH50, new customers | Pro $144/year billed yearly (regular price per vendor site) | 2026-11-30 | [Reddit](https://www.reddit.com/r/MacOS/comments/1xngo0c/indie_mac_apps_that_have_already_confirmed_black/) | AI voice dictation for Mac, Windows, Linux and mobile: hold a key, speak, and Blip types polished text into any app. From the r/MacOS confirmed-deals thread; thread lists no… |
 | [Blumify, 50% off first year Unlimited, Black Friday 2026](https://blumify.io/pro) | 50% off first year of Unlimited | $29.99/year (was $59.99) | 2026-11-30 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | No code needed; AI tracker for leaders across interviews, podcasts, X and blogs |
 | [Callout, $19.99 license (was $49), Black Friday 2026](https://saycallout.com/) | License $19.99 (was $49) | $19.99 (was $49) | 2026-12-01 | [GitHub](https://github.com/hehachris/awesome-black-friday-for-vibe-coders) | Mac app that has Claude Code fix bugs reported by voice; ends Dec 1; from the hehachris awesome-black-friday-for-vibe-coders list |

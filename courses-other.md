@@ -1,6 +1,6 @@
 # Courses & Learning: Other Courses & Learning, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Courses & Learning index](courses-learning.md). **42 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Courses & Learning index](courses-learning.md). **43 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -29,6 +29,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Courses 
 | [Mission Infosec, free access for 60 days, Black Friday 2026](https://devsecopspro.com/devsecops-pro-bfcm-2026) | Free access for 60 days | Free for 60 days | 2026-11-30 | [GitHub](https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday/blob/main/README.md) | Full course plus labs. DevSecOps and AppSec course. Added to ps-lo list 2026-11-26. |
 | [NeetCode Pro, Lifetime $207.90, Black Friday 2026](https://neetcode.io/pro) | Lifetime plan $207.90 (was $599) | $207.90 lifetime | 2026-12-01 | [GitHub](https://github.com/greatfrontend/black-friday-cyber-monday-deals/blob/main/README.md) | Added in greatfrontend 72-deal refresh 2026-11-26 06:47 UTC. |
 | [OffSec, 20% off Learn One subscription, Black Friday 2026](https://www.offsec.com/) | 20% off Learn One subscription; 15% off bundles | About $550 savings on Learn One | 2027-01-04 | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | Learn One subscription covering OSCP, OSWP and OSEP prep. Listed in the Shashankt255 black-friday-deals-2026 list as a confirmed deal. Also 15% off bundles per the same list. |
+| [ogSec, Up to 35% off courses, Black Friday 2026](https://ogsec.co.uk/) | Up to 35% off courses | — | 2026-11-30 | [GitHub](https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday) | Applied automatically, no code. |
 | [Pluralsight, about 50% off, Black Friday 2026](https://www.pluralsight.com/) | About 50% off | — | — | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | Unverified per list; tech skills courses |
 | [Practical TLS, 83% off with code BF2026TLS, Black Friday 2026](https://classes.pracnet.net/courses/practical-tls?coupon=BF2026TLS) | 83% off with code BF2026TLS | $50 (was $297) | 2026-12-06 | [GitHub](https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday) | SSL/TLS deep dive including TLS 1.3, PKI, and 40+ OpenSSL/Wireshark labs. Listed in the ps-lo InfoSec-and-Tech-Black-Friday list. |
 | [PwnedLabs, 25% off boot camps and subscriptions, Black Friday 2026](https://pwnedlabs.io/) | 25% off boot camps and subscriptions, code BLACKFRIDAY25 | — | 2026-11-30 | [GitHub](https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday) | Applies to ACRTP, MCRTP, GCRTP, AISRTP, KRTP bootcamps and lab subscriptions. |

@@ -1,6 +1,6 @@
 # Hardware/Gadgets: Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md). **226 deals** in this category, grouped below by what each product is for · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md). **228 deals** in this category, grouped below by what each product is for · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
 
 | Group | Deals |
 | --- | ---: |
@@ -11,6 +11,6 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md). **226 deals
 | [Power Stations, Solar & Batteries](hardware-power-solar.md) | 12 |
 | [Keyboards, Mice & Peripherals](hardware-peripherals.md) | 22 |
 | [Home, Travel & Everyday Gadgets](hardware-home-gadgets.md) | 54 |
-| [Other Hardware & Gadgets](hardware-other.md) | 58 |
+| [Other Hardware & Gadgets](hardware-other.md) | 60 |
 
 [← Back to the full list](README.md)

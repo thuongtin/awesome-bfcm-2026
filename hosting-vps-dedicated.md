@@ -1,6 +1,6 @@
 # Hosting & Cloud: VPS & Dedicated Servers, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Hosting & Cloud index](hosting-cloud.md). **39 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Hosting & Cloud index](hosting-cloud.md). **40 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -34,6 +34,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Hosting 
 | [RackNerd, VPS from $10.18/year, Black Friday 2026](https://www.racknerd.com/) | VPS from $10.18/year | $10.18/year | — | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | Budget VPS, price-locks forever. Listed in the Shashankt255 black-friday-deals-2026 list as a confirmed deal. |
 | [RakSmart Black Friday 2026, VPS from $2.99/mo, dedicated servers from $29.90/mo](https://www.raksmart.com/activity/index/page/activitypage_25.html) | VPS from $2.99/mo | From $2.99/mo | — | [X](https://x.com/zjcpzz/status/2123758675181666406) | Tokyo VPS 2C2G $2.99/mo; US CN2, BGP and VIP VPS 2C4G $4.99/mo; annual NVMe VPS from $49.90/yr; dedicated servers from $29.90/mo; coupons up to $60 off |
 | [ScalaHosting, up to 71% off, Black Friday 2026](https://www.scalahosting.com/) | Up to 71% off | — | 2026-12-01 | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | Managed cloud VPS. Listed in the Shashankt255 black-friday-deals-2026 list as a confirmed deal. |
+| [ServaRica, Black Friday 2026: shared CPU VPS from $36/yr, 20% off dedicated-core plans, recurring](https://servarica.com/black-friday/) | 20% off dedicated-core plans; shared CPU VPS from $36/yr | Shared Slim 2 from $36/yr | 2026-12-26 | [Reddit](https://www.reddit.com/r/servarica/comments/1y6jn3m/black_friday_servarica_montreal_since_2010_new/) | Montreal VPS/storage provider since 2010. Sale Nov 26-Dec 26, prices recurring on renewal. Shared CPU VPS from $36/yr, new hybrid storage VPS lines, 20% off every dedicated-core… |
 | [SpinupWP, 50% off your first 6 months, Black Friday 2026](https://spinupwp.com/pricing/?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) | 50% off your first 6 months | — | 2026-11-30 | [GitHub](https://github.com/meSingh/awesome-black-friday-dev-deals) | Server control panel for running WordPress sites on your own cloud servers |
 | [SurferCloud, up to 40% off cloud servers, Black Friday 2026](https://www.surfercloud.com/promos/blackfriday) | Up to 40% off cloud servers | — | — | [X](https://x.com/SurferCloudX/status/2123719753466511800) | Month 1 20% off, month 2 30% off, month 3 and later 40% off; global regions |
 | [TLFHost, 30% off recurring annual Cloud VPS and Dedicated Servers, Black Friday 2026](https://tlfhost.com/black-friday-server-deals-2026/) | 30% off recurring annual pricing | — | — | [X](https://x.com/tlfhost/status/2123133488169615441) | Lifetime price lock; NVMe storage and DDoS protection; instant deployment; limited stock |
