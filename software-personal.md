@@ -1,6 +1,6 @@
 # Software & SaaS: Personal, Family & Learning Apps, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **17 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **17 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |

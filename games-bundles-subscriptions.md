@@ -1,6 +1,6 @@
 # Games: Bundles & Subscriptions, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Games index](games.md). **20 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Games index](games.md). **20 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |

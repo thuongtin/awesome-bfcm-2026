@@ -1,6 +1,6 @@
 # Courses & Learning: Language & Exam Prep, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Courses & Learning index](courses-learning.md). **12 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Courses & Learning index](courses-learning.md). **13 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -14,6 +14,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Courses 
 | [Nihongo Lessons, 50% off All Access lifetime, Black Friday 2026](https://lessons.nihongo-app.com) | 50% off All Access lifetime | $149.99 (was $299.99) | 2026-12-02 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Learn Japanese vocabulary and grammar with sentence-based flashcards. Discount auto-applied in-app, no code needed. Listed in the twf-nikhila Awesome Black Friday list, offer… |
 | [Nihongo, 50% off Pro lifetime, Black Friday 2026](https://nihongo-app.com) | 50% off Nihongo Pro lifetime | $89.99 (was $179.99) | 2026-12-02 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Japanese dictionary for iPhone and iPad with camera lookup and flashcards automatically created from the words you look up. Discount auto-applied in-app, no code needed. Listed… |
 | [OffSec Learn One, 20% off annual, $2,199, Black Friday 2026](https://www.offsec.com/products/learn-one/) | 20% off Learn One annual | $2,199/yr (reg $2,749) | 2027-01-04 | [GitHub](https://github.com/v3nomtech/infosec-cert-black-friday-2026) | One 200/300-level course plus labs and 2 exam attempts; OSCP+, OSEP, OSWE and more |
+| [OffSec, $250 off Course + Cert Bundles, Black Friday 2026](https://portal.offsec.com/checkout/?view=cc) | $250 off Course + Cert Bundles | — | 2026-12-01 | [GitHub](https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday) | Save $250 on 90 days course + lab access with 1 exam attempt, promo page learn.offsec.com/level-20-promo |
 | [WinkLingo, 40% off Annual and 38% off Monthly, Black Friday 2026](https://winklingo.com/en/black-friday) | 40% off Annual Pro; 38% off Monthly | Annual $49.99 to $29.99/yr; Monthly $7.99 to $4.99/mo | 2026-12-03 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday#readme) | UNCERTAIN DUP: merged into trungdq88 before 03:40 UTC, so the separate PR/issue run at 10:40 +07 today may already have added this row; the 10 rows from that run are not in the… |
 | [Wireshark Labs, 50% off WCA Labs, Black Friday 2026](https://wiresharklabs.org) | 50% off WCA Labs ($199.99 to $99.99), Ranger Lab $249.99 to $179.99, code PACKETFRIDAY | WCA Labs $199.99 to $99.99; Ranger $249.99 to $179.99 | 2026-12-02 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Hands-on Wireshark labs with real packet captures: certification exam prep and real-world troubleshooting cases. Nov 23 to Dec 1, 2026 (until Dec 2, 08:00 UTC). |
 

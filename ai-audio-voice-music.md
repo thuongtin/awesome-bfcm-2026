@@ -1,6 +1,6 @@
 # AI & Dev Tools: AI Audio, Voice & Music, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [AI & Dev Tools index](ai-dev-tools.md). **20 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [AI & Dev Tools index](ai-dev-tools.md). **21 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -22,6 +22,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [AI & Dev
 | [Press Ranger, $64 lifetime on AppSumo, Black Friday 2026](https://appsumo.com/products/press-ranger/) | Lifetime deal | $64 once (was $500) | — | [X](https://x.com/mrdzyn/status/2122391514412376411) | AI finds and pitches journalists, publishers and podcasts. |
 | [Speakmac, 35% off one-time licenses, Black Friday 2026](https://www.speakmac.app/buy?utm_source=github_trungdq88&utm_medium=deal_list&utm_campaign=bf2026) | 35% off | $18.85 one-time (1 Mac), $25.35 (2 Macs) | 2026-12-07 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/blob/main/README.md) | Code BF2026 (auto-applied). Private offline voice dictation for Mac, bot-free meeting notes. Added to trungdq88 list 2026-11-26. |
 | [Transcribee, 40% off Unlimited, Black Friday 2026](https://transcribee.io/black-friday/) | 40% off Unlimited | Monthly $25.99 to $15.59 first month; yearly $199.99 to $119.99 first year | 2026-11-30 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Code BF2026; AI transcription, 90+ languages |
+| [UGC Script, 20% off Lifetime, $39 (was $49), Black Friday 2026](https://ugcscript.app/?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bf2026) | 20% off Lifetime | $39 (was $49) | 2026-11-30 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Transcript and script generator from TikTok, Reels and Shorts links, Nov 26-30 |
 | [Visby, $69 lifetime on AppSumo, Black Friday 2026](https://appsumo.com/products/visby/) | Lifetime deal | $69 once (was $948) | — | [X](https://x.com/mrdzyn/status/2122391232714576321) | Tracks AI brand mentions and share of voice, finds SEO and GEO content gaps. |
 | [Wiredesk, 30% off first year of Growth or Scale with code BLACKFRIDAY2026, Black Friday 2026](https://wiredesk.ai/pricing) | 30% off first year of Growth or Scale, code BLACKFRIDAY2026 | Growth $27.30/mo billed yearly (was $39); Scale $111.30/mo billed yearly (was $159) | 2026-11-30 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | AI support agents for chat, phone and email: learn from your website and help center, answer around the clock, hand over conversations that need a person with the full… |
 

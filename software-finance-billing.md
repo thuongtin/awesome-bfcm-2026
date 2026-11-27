@@ -1,6 +1,6 @@
 # Software & SaaS: Finance, Billing & Accounting, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **41 deals** · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **42 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -16,6 +16,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software
 | [CopyJump, 51% off first invoice with code BLACKFRIDAY26, Black Friday 2026](https://copyjump.com/pricing) | 51% off first invoice with code BLACKFRIDAY26 | 1 site $79 to $39 | 2026-12-01 | [GitHub](https://github.com/dqhieu/black-friday-deals) | Helps you get more customers from Google and AI search, for your own site or your clients. First-time orders, limited redemptions. Sale Nov 13 to Dec 1, 2026. Listed in the… |
 | [Dext, 15% off for 12 months, Black Friday 2026](https://join.dext.com/coupon) | 15% off for 12 months | — | — | [GitHub](https://github.com/carmentune/best-black-friday-saas-deals) | Accounting automation for data extraction and bookkeeping. |
 | [DriveDex, 50% off lifetime, Black Friday 2026](https://apps.apple.com/us/app/fuel-consumption-drivedex/id6503341002) | 50% off lifetime | — | 2026-12-01 | [GitHub](https://github.com/longseespace/mac-black-friday) | Track mileage and expenses for all vehicles on iOS, iPadOS and visionOS. Automatically applied. Nov 27 to Dec 1, 2026. |
+| [Finance Three: Budget Tracker, 50% off, lifetime $19.99 (was $39.99), Black Friday 2026](https://zhorzhua.studio/blackfriday/) | 50% off | Plus Lifetime $19.99 (was $39.99), Plus Annual $12.49 (was $24.99) | 2026-12-01 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Personal daily budget for iPhone, Nov 27-Dec 1 |
 | [Finny: AI Money Manager, 40% off, Black Friday 2026](https://apps.apple.com/us/app/finny-ai-money-manager/id6736472735) | 40% off | — | 2026-12-01 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Fully automatic expense tracking on iPhone Code BFCM26. |
 | [FreshBooks, 80% off 4 months, Black Friday 2026](https://www.freshbooks.com/) | 80% off 4 months | Lite $4.60 per month; Plus $8.60 per month; Premium $14 per month | 2026-12-31 | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | Freelancer accounting. Sale Oct 14 to Dec 31, 2026. Confirmed live Nov 14 in the shashankt black-friday-deals-2026 list. |
 | [Invoice Factory, 50% off first year of Premium annual, Black Friday 2026](https://apps.apple.com/us/app/id6744819252) | 50% off first year of Premium annual | $179.99 to $89.99 | 2026-12-06 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Invoice maker and bookkeeping app for freelancers and small businesses on iPhone: invoices, payments and bills. Discount auto-applied in the app, no code. Sale Nov 5 to Dec 6,… |

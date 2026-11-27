@@ -1,6 +1,6 @@
 # Other: Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md). **40 deals** in this category · Last updated: **2026-11-26** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md). **41 deals** in this category · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -15,6 +15,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md). **40 deals*
 | [Dar Templates, 50% off Excel and Google Sheets business templates, Black Friday 2026](https://darjob.myshopify.com/pages/black-friday) | 50% off | $14.50 (was $29) one-time | 2026-12-01 | [GitHub](https://github.com/thuongtin/awesome-bfcm-2026/issues/24) | Code BF50 at checkout, one use per customer, applies to all 36 templates. Valid Nov 19 to Dec 1, 2026. Submitted via issue #24 by @a04032417-svg. |
 | [Factor, up to $130 off plus free breakfast for a year, Black Friday 2026](https://www.factor75.com/) | Up to $130 off plus free breakfast for a year | — | — | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | Prepared meals delivered. Listed in the Shashankt255 black-friday-deals-2026 list as a confirmed deal. |
 | [Geeksoutfit, 10% to 30% off with codes BF10, BF20, BF30, Black Friday 2026](https://www.geeksoutfit.com/) | 10% to 30% off plus free gifts, codes BF10, BF20, BF30 | — | 2026-11-29 | [GitHub](https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday) | Geek apparel and gifts. Listed in the ps-lo list, Nov 14, 2026. |
+| [HackCloth, free shipping + Buy 2 get 20% off storewide, Black Friday 2026](https://www.hackcloth.com/) | Free shipping + Buy 2 get 20% off storewide | — | 2026-12-31 | [GitHub](https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday) | Hacker merch, storewide |
 | [Hairfauxyou, 25-50% off 100% human hair extensions, Black Friday 2026](https://www.hairfauxyou.com) | 25%, 30%, 40%, 50% off | — | 2026-12-01 | [X](https://x.com/Hairfauxyou/status/2118525891223683382) | Announced by the brand on X: 6-day sale starts Thu Nov 26 and ends Tue Dec 1 at midnight. |
 | [Hanes Men's Beefy Heavyweight Fleece Joggers, $9 (reg $27.98, 68% off) at Walmart, Black Friday 2026](https://www.walmart.com/ip/20178702688) | 68% off | $9 (reg $27.98) | — | [Reddit](https://www.reddit.com/r/blackfriday/comments/1y32v4a/) | Select colors and sizes; free shipping with Walmart+ or on orders $35+. |
 | [Hanes Men's EcoSmart Full-Zip Fleece Hoodie, from $10.39 (up to 63% off) at Amazon, Black Friday 2026](https://www.amazon.com/dp/B00JUM59V4) | Up to 63% off | From $10.39 | — | [Reddit](https://www.reddit.com/r/blackfriday/comments/1y32x8z/) | Select colors and sizes. |
