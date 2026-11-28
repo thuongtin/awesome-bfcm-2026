@@ -1,6 +1,6 @@
 # Other: Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md). **50 deals** in this category · Last updated: **2026-11-28** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md). **51 deals** in this category · Last updated: **2026-11-28** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -54,5 +54,6 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md). **50 deals*
 | [VIGORBUY Black Friday Sale, coupon repsneak15](https://vigorbuy.com/coupon/repsneak15) | Coupon code repsneak15 | — | — | [Reddit](https://www.reddit.com/r/RepSneakerFans/comments/1xxcx86/vigorbuy_black_friday_sale_is_here/) | Flair: ANNOUNCEMENT |
 | [Visible, Visible+ Pro $225 for 1 year, Black Friday 2026](https://www.visible.com/) | Visible+ Pro annual $225 for 1 year | $225 for 1 year | — | [Reddit](https://www.reddit.com/r/NoContract/comments/1xop458/visible_black_friday_sale_is_live/) | Visible Black Friday sale live as of Nov 5, 2026, per Reddit user report. HOLIDAYHACK promo also still active. Mobile plan deal. |
 | [Wrangler Men's Relaxed Fit Jeans with Flex, 41% off, Black Friday 2026](https://www.walmart.com/ip/Wrangler-Men-s-and-Big-Men-s-Relaxed-Fit-Jeans-with-Flex/56027905) | 41% off | $13 (was $21.98) | — | [Reddit](https://www.reddit.com/r/blackfriday/comments/1y4q5ki/) | Walmart; free shipping with Walmart+ or on $35+ orders; price may vary by size/color; affiliate params stripped from deal link |
+| [Yesim Europe eSIM, 20% off Europe & UK Plan, Black Friday 2026](https://yesim.app/) | 20% off | — | 2026-11-30 | [Reddit](https://www.reddit.com/r/YesimApp/comments/1y7g6c4/black_friday_deal_on_europe_esim/) | Code EU20UK20. Europe & UK Plan. 48 hours only from Nov 28. Posted by the official Yesim community account. |
 
 [← Back to the full list](README.md)

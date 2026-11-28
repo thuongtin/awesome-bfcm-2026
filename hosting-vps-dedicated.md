@@ -1,6 +1,6 @@
 # Hosting & Cloud: VPS & Dedicated Servers, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Hosting & Cloud index](hosting-cloud.md). **42 deals** · Last updated: **2026-11-28** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Hosting & Cloud index](hosting-cloud.md). **43 deals** · Last updated: **2026-11-28** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -20,6 +20,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Hosting 
 | [Godlike.host, 40% off VPS, Black Friday 2026](https://godlike.host/) | 40% off | — | 2026-11-30 | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | VPS with DDoS protection. Listed in the Shashankt255 black-friday-deals-2026 list as a confirmed deal. |
 | [GPUMART Black Friday GPU deals 2026, up to 60% off](https://www.gpu-mart.com/gpu-vps) | Up to 60% off | Plans from $11.60/mo | — | [X](https://x.com/updatedreviews/status/2122406931621138617) | GPU hosting, 20+ GPU models, 2GB-192GB VRAM. Live GPU VPS page lists plans from $21/mo before discount. |
 | [HostGator, Extra 15% off one eligible 1-year product, 20% off two, Black Friday 2026](https://hostgator.pvxt.net/VO9JMR) | Extra 15% off one eligible 1-year product, 20% off two | — | — | [GitHub](https://github.com/carmentune/black-friday-saas-deals) | Shared hosting, dedicated servers, and domain services. |
+| [Hosting.com, Up to 89% off, Black Friday 2026](https://hosting.com/) | Up to 89% off | $1.49/mo Starter (12-month plan) | — | [GitHub](https://github.com/greatfrontend/black-friday-cyber-monday-deals) | Managed web hosting, WordPress plans, VPS and dedicated servers. |
 | [Hostinger KVM 1 VPS, $6.49/mo, Black Friday 2026 early deal](https://www.hostinger.com/black-friday) | $6.49/mo | $6.49/mo | 2026-12-14 | [X](https://x.com/0xhaiii/status/2120389173848969522) | 1 core, 4GB RAM, 50GB NVMe; 24-month prepay required; renewal price rises |
 | [Hostinger VPS, up to 70% off, Black Friday 2026](https://www.hostinger.com/vps-hosting) | Up to 70% off VPS, no code needed | KVM 1 $6.49/mo, KVM 2 $8.79/mo, KVM 4 $12.99/mo, KVM 8 $25.99/mo | 2026-12-14 | [GitHub](https://github.com/sqi80396/vps-black-friday-renewal) | KVM VPS with AMD EPYC hardware and NVMe storage, 30-day money-back guarantee. Black Friday promotion Oct 19 to Dec 14, 2026. Prices verified live on the Hostinger VPS page… |
 | [Hostinger, Up to 87% off + extra 10% off with code BLACKFRIDAY, Black Friday 2026](https://www.hostg.xyz/SHI0u) | 87% off | — | — | [GitHub](https://github.com/carmentune/best-black-friday-saas-deals) | Managed web hosting, VPS, and cloud infrastructure. |

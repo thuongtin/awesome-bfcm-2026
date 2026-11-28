@@ -1,6 +1,6 @@
 # AI & Dev Tools: AI Meetings, Notes & Productivity, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [AI & Dev Tools index](ai-dev-tools.md). **21 deals** · Last updated: **2026-11-28** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [AI & Dev Tools index](ai-dev-tools.md). **22 deals** · Last updated: **2026-11-28** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -25,5 +25,6 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [AI & Dev
 | [Transync AI, $20 off Personal Premium annual, Black Friday 2026](https://www.transyncai.com/black-friday/) | $20 off Personal Premium annual | $89.90 to $69.90 | 2026-12-01 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Auto-applied, no code; real-time AI translation for meetings with bilingual subtitles in 60 languages; new annual or monthly-to-annual only; Nov 24 to Dec 1; via trungdq88 |
 | [Ultimate Pack + AI, EUR 4,000 Black Friday bundle, 2026](https://www.exploitpack.com/products/ultimate-pack-discount) | Black Friday bundle | EUR 4,000; no coupon | 2026-11-30 | [GitHub](https://github.com/thuongtin/awesome-bfcm-2026/pull/26) | Includes Exploit Pack, Control Pack and Kernel Pack with integrated AI workflows. Submitted via PR #26 by @epgh123. Note: product page confirms EUR 4,000 price and In Stock; Nov… |
 | [Voibe, 25% off every plan with code BFCM26, Black Friday 2026](https://www.getvoibe.com/) | 25% off every plan, kept every month on monthly plans, code BFCM26 | — | 2026-11-30 | [GitHub](https://github.com/tubeagentkit/awesome-black-friday-ai-deals) | AI dictation and meeting notes app. Sale until Nov 30, 2026. Listed in the tubeagentkit Awesome Black Friday AI Deals list, Nov 15, 2026. |
+| [Voibe, 25% off, Black Friday 2026](https://www.getvoibe.com/pricing/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | 25% off | $149.25 (was $199) | 2026-11-30 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Code BFCM26. Private AI dictation and bot-free meeting notes for Mac and Windows |
 
 [← Back to AI & Dev Tools](ai-dev-tools.md) · [Back to the full list](README.md)

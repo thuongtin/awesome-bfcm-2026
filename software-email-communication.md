@@ -1,6 +1,6 @@
 # Software & SaaS: Email & Communication, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **38 deals** · Last updated: **2026-11-28** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **39 deals** · Last updated: **2026-11-28** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -17,6 +17,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software
 | [EmailOctopus Pro yearly, 30% off, Black Friday 2026](https://emailoctopus.com/) | 30% off Pro yearly plan | — | 2026-11-30 | [X](https://x.com/ItsAmolHustle/status/2123937939482935749) | Offer ends November 30 at midnight. Unlimited automations, users, forms and landing pages, no branding. |
 | [FaceCam, 40% off, Black Friday 2026](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY26) | 40% off | $6, $10 | 2026-12-02 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Floating camera overlay for Mac video calls and recordings: a movable facecam bubble with custom shapes, zoom, mirror and name labels Code BLACKFRIDAY26. |
 | [FormBold, 40% off All Paid plans with code BLFCM2026, Black Friday 2026](https://formbold.com/pricing) | 40% OFF All Paid Plans, recurring | — | 2026-12-01 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Form backend and API that sends submissions to email, Slack and Notion. Listed in the twf-nikhila Awesome Black Friday list, offer window Nov 17 to Dec 1, 2026. Updated Nov 18,… |
+| [FormBold, 40% off, Black Friday 2026](https://formbold.com/) | 40% off | — | 2026-12-01 | [GitHub](https://github.com/greatfrontend/black-friday-cyber-monday-deals) | Code BLFCM2026. A complete web form solution that includes a form API, backend, and builder. Get website form submissions directly to your inbox, Slack, Sheet, Notion, Telegram… |
 | [Horcrux Email Backup, 30% off Horcrux 5 one-time purchase, Black Friday 2026](https://thehorcrux.com/pricing/#black-friday-2026) | 30% OFF Horcrux 5 one-time purchase | $49.99 to $34.99 | 2026-12-01 | [GitHub](https://github.com/longseespace/mac-black-friday) | Code BLACKFRIDAY2026; direct checkout or Mac App Store; US pricing; back up Gmail, Outlook and IMAP mail on your Mac, search offline, restore to another mailbox; Nov 25 - Dec 1,… |
 | [InboxPurge, 30% off all plans, Black Friday 2026](https://www.inboxpurge.com/pricing/?utm_source=tonybf) | 30% OFF all plans | — | — | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Code BF2026; no expiry stated |
 | [InboxShield, 78% off one-time fix pass, Black Friday 2026](https://inbox.shipbastion.com/) | 78% off one-time fix pass | $2 one-time (was $9) | 2026-12-01 | [GitHub](https://github.com/thuongtin/awesome-bfcm-2026/pull/95) | No code, auto-applied. 3-App Launch Suite $5 (was $29) already listed as the OmniForge suite row. Offer window per the official Black Friday deal page is through Dec 1, 2026 (PR… |

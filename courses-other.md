@@ -1,6 +1,6 @@
 # Courses & Learning: Other Courses & Learning, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Courses & Learning index](courses-learning.md). **50 deals** · Last updated: **2026-11-28** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Courses & Learning index](courses-learning.md). **51 deals** · Last updated: **2026-11-28** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -52,6 +52,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Courses 
 | [Udemy, Black Friday sale Nov 23-27 and Cyber Monday Nov 28-30, Black Friday 2026](https://www.udemy.com/black-friday-cyber-monday-sales/) | — | — | 2026-11-30 | [GitHub](https://github.com/Dutchosintguy/osint-black-friday-2026) | Official Black Friday sale Nov 23-27, then Cyber Monday Nov 28-30. Individual course prices vary by region; confirm at checkout. |
 | [Udemy, courses from $9.99, up to 85% off, Black Friday 2026](https://www.udemy.com/) | Courses from $9.99, up to 85% off | Courses from $9.99 | 2026-11-30 | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | Sale live Nov 19-30, 2026; courses from $9.99, up to 85% off. |
 | [Unlearn, 56% off Unlearn Plus Lifetime, Black Friday 2026](https://unlearn.dev/pricing) | 56% off Lifetime | $399 | 2026-12-02 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Unlearn Plus Lifetime $899 to $399. Courses, workflows and agent skills for building with AI agents. |
+| [Uxcel, 62.5% off, Black Friday 2026](https://uxcel.com/uxcel-bfcm-live) | 62.5% off | — | 2026-11-30 | [GitHub](https://github.com/greatfrontend/black-friday-cyber-monday-deals) | Interactive UI and UX lessons, assessments and certifications. |
 | [VimNinja, 34% off lifetime Pro, Black Friday 2026](https://www.vimninja.com/upgrade?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | 34% OFF lifetime Pro | $29 to $19 | 2026-11-30 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Auto-applied; hands-on Vim course in a real Vim editor in the browser; also in trungdq88/Awesome-Black-Friday-Cyber-Monday |
 | [VueSchool, 87% off, $149 instead of $1,200, Black Friday 2026](https://vueschool.io/) | Early Bird 87% off | $149 (was $1,200) | 2026-11-24 | [GitHub](https://github.com/greatfrontend/black-friday-cyber-monday-deals) | Premium, Unlearn.dev, Mastering Nuxt, Mastering Pinia. Learn Vue.js from core-team members. Ends Nov 24, 2026. Listed in greatfrontend/black-friday-cyber-monday-deals. |
 

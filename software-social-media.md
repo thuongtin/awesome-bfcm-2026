@@ -1,10 +1,11 @@
 # Software & SaaS: Social Media & Creators, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **37 deals** · Last updated: **2026-11-28** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **38 deals** · Last updated: **2026-11-28** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
 | [Accurate Scheduler, 50% off paid plans, Black Friday 2026](https://accuratescheduler.com/pricing/) | 50% off paid monthly and yearly plans, code FSBFCM2026 | Starter $1.50/mo (was $3) or $15/yr (was $30) | — | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Online appointment booking, staff calendars, and payment collection for service businesses. |
+| [Back Pocket, 60% off, Black Friday 2026](https://apps.apple.com/app/id6765919320) | 60% off | $1.99 (was $4.99) | 2026-12-01 | [GitHub](https://github.com/longseespace/mac-black-friday) | Save TikToks, Reels and any link from the share sheet into pockets you pick. No account, no subscription, no AI sorting. |
 | [BearConnect, 50% off for 6 months, Black Friday 2026](https://bearconnect.io/pricing/) | 50% off for 6 months with code 50OFFBC | Starter $56/LinkedIn account/month billed annually; Growth $237/month for 5 accounts (list prices) | — | [GitHub](https://github.com/thoughtcook/verified-black-friday) | LinkedIn automation. Banner live on official pricing page Nov 8, 2026; discounted totals not printed; end date not stated. |
 | [BuzzWire Pro, Instagram DM automation lifetime $119, Black Friday 2026](https://buzzwire.io/black-friday) | Lifetime $119 once | $119 | 2026-12-02 | [X](https://x.com/RanjeetVimal3/status/2123808590314017231) | Every Pro feature on 1 Instagram account. Opens Mon 23 Nov, ends Wed 2 Dec. |
 | [Channel Surfer, 50% off Supporter Monthly, $4.50/month for six months, Black Friday 2026](https://channelsurfer.tv/upgrade/?code=BLACKFRIDAY50) | 50% off Supporter Monthly | $4.50/month for six months (then $9/month) | 2026-11-30 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Turn YouTube channels and playlists into a TV guide, code BLACKFRIDAY50, Nov 27-30 |
