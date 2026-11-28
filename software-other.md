@@ -1,6 +1,6 @@
 # Software & SaaS: Other Software & SaaS, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **297 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software & SaaS index](software-saas.md). **298 deals** · Last updated: **2026-11-28** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -97,6 +97,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Software
 | [FreshJobs, 60% off for 2 months, Black Friday 2026](https://freshjobs.tech/) | 60% off for 2 months, code MS86L5ZK5VSU | — | 2026-12-17 | [GitHub](https://github.com/dqhieu/black-friday-deals) | All latest job postings in one place, ATS score check and ATS resume generation. Nov 17 to Dec 17, 2026. |
 | [Fresible Music, 50% off subscriptions, Black Friday 2026](https://music.fresible.com/) | 50% OFF subscriptions + a FREE ADD-ON | — | 2026-11-20 | [X](https://x.com/FresibleMusic/status/2118661706339729730) | Music distribution to 90+ platforms. Sale Nov 6 to 20, 2026. Announced by the official Fresible Music account; the landing page confirms a 50% offer. |
 | [Fundalyze, 35% off forever, Black Friday 2026](https://fundalyze.ai/blackfriday) | 35% off forever | $32.49/mo or $324.99/yr; Lifetime $999.99 | 2026-12-01 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/blob/main/README.md) | Code BF2026 for monthly/annual; code BFLTD10 for $1,000 off Lifetime ($1,999.99 to $999.99). Added to trungdq88 list 2026-11-26 07:36 UTC. |
+| [Galore, free access now, 20% off membership with code BLACKFRIDAY](https://trygalore.com/black-friday) | Free access now; 20% off membership with code BLACKFRIDAY | Annual $71.99/yr (was $89.99); Monthly $9.59/mo (was $11.99) | 2026-12-01 | [GitHub](https://github.com/thuongtin/awesome-bfcm-2026/pull/106) | Offer runs Nov 28 to Dec 1, 2026. Verified live on the official Black Friday page 2026-11-28. Paper trading only for now; live brokerage trading not available yet; Galore is not… |
 | [GeneratePress, up to 25% off, Black Friday 2026](https://generatepress.com/) | Up to 25% off | — | — | [GitHub](https://github.com/Shashankt255/black-friday-deals-2026) | Unverified per list; WordPress theme |
 | [Git On The Go, 40% off, Black Friday 2026](https://gitonthego.com/) | 40% off, no code needed | $9.99 to $5.99 (also GBP 9.99 to 5.99) | 2026-12-01 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Real Git for iPad and iPhone, one-time purchase, no account. Mobile (iOS) coverage area. Found in the trungdq88 list, added after the 04:26 run. |
 | [GitCMS, 25% off lifetime site licences, Black Friday 2026](https://gitcms.dev/) | 25% off lifetime | $66.75 per site | 2026-11-30 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Code BF26. $89 to $66.75 per site for agencies buying 5+ sites, first 20 agencies. CMS for moving client sites to AI-built code. |

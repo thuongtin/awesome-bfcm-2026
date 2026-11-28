@@ -1,6 +1,6 @@
 # Courses & Learning: Design, Photo, Video & Music, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Courses & Learning index](courses-learning.md). **4 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Courses & Learning index](courses-learning.md). **4 deals** · Last updated: **2026-11-28** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |

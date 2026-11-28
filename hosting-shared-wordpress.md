@@ -1,6 +1,6 @@
 # Hosting & Cloud: Shared & WordPress Hosting, Black Friday & Cyber Monday 2026 Deals
 
-Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Hosting & Cloud index](hosting-cloud.md). **19 deals** · Last updated: **2026-11-27** (Asia/Saigon, UTC+7)
+Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Hosting & Cloud index](hosting-cloud.md). **20 deals** · Last updated: **2026-11-28** (Asia/Saigon, UTC+7)
 
 | Deal | Discount | Price | Expires | Source | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -20,6 +20,7 @@ Part of [Awesome Black Friday & Cyber Monday 2026 Deals](README.md) · [Hosting 
 | [PixelVault, 50% off Starter and Pro, Black Friday 2026](https://pixelvault.dev/blackfriday/) | 50% off | Starter or Pro for the first 3 monthly invoices | 2026-11-30 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Code BLACKFRIDAY2026, new paying customers only. Image hosting for developers and AI agents, zero egress fees. |
 | [Static.app, 35% off first payment with code BLACKFRIDAY35, Black Friday 2026](https://static.app/black-friday) | 35% off first payment | Starter $60 to $39/yr | 2026-12-01 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Code BLACKFRIDAY35; static website hosting |
 | [Static.run, 30% off yearly plans with code BLFCM2026, Black Friday 2026](https://static.run/pricing) | 30% off yearly plans with code BLFCM2026 | — | 2026-12-01 | [GitHub](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | Static site hosting with analytics and one-click deploy. Listed in the twf-nikhila Awesome Black Friday list, offer window Nov 17 to Dec 1, 2026. |
+| [Staxa, 50% off first 3 months Starter or Growth, Black Friday 2026](https://staxa.dev/#pricing) | 50% off | $24.50/mo Starter (was $49); $99.50/mo Growth (was $199) | 2026-11-30 | [GitHub](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Code STAXABF50. Monthly billing, new subscriptions, first 100 customers. Hosting for SaaS with an isolated stack per customer. |
 | [WPEngine, 6 months free hosting, Black Friday 2026](https://wpengine.com/) | 6 months free hosting | — | 2026-12-04 | [X](https://x.com/UmapathySekar/status/2122558430464626762) | Source blog also lists 50% off with code cyberweekend2026, Nov 11 to Dec 4, 2026 |
 | [WPX Hosting, up to 90% off, Black Friday 2026](https://wpxhosting.com/) | Up to 90% off | — | — | [X](https://x.com/UmapathySekar/status/2122642764202692830) | WPX Hosting Black Friday Deals 2026. Tweet links to a blog roundup of the WPX offer; deal URL is the WPX merchant site. |
 | [Zooku, 70-90% off hosting, 3 euros per month, Black Friday 2026](https://www.zooku.ro/black-friday-2026) | 70-90% off hosting packages | 3 euros/month flat (from 10.90 to 29 euros/month) | 2026-11-15 | [X](https://x.com/Zooku/status/2121131485310689765) | Romanian hosting provider. 5 special hosting and email packages at a flat 3 euros per month, Nov 13-15, 2026. 6-month purchase, new customers only, prices ex VAT. Page and tweet… |
